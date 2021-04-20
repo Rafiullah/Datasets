@@ -1,6 +1,6 @@
 # Table of contents
-* [General info](#general-info)
+* [General Info](#general-info)
 
 
-## General info
+## General Info
 This repository will contain Datasets.
