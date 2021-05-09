@@ -1,0 +1,19 @@
+﻿اﺣﻤﺪﺷﺎه/NN.SG.M ﺑﺎﺑﺎ/NN.SG.M او? د/ADP ﻣﺮﮐﺰي/AJ دوﻟﺖ/NN.SG.DIR.M  ټینګښت/VB
+ﮐﻠﻪ/AD چې/CC اﺑﺪاﻟﻲ/NN.SG.M اﺣﻤﺪﺧﺎن/NN.SG.M د/ADP ﻳﻮ/CD ﻣﺮﮐﺰي/AJ دوﻟﺖ/NN.SG.M د/ADP ټینګښت/VB  ﻟﭙﺎره/ADP هڅه/VB ﮐﻮﻟﻪ/VB اﻓﻐﺎﻧﺴﺘﺎن/NN.SG.DIR.M ﭘﻪ/AD ﻻﻧﺪې/ADP
+وﺿﻌﻴﺖ/NN.SG.M کې/AD ﭘﺮوت/VB و/VB.PST ./.
+         د/ADP ﭘﺮدﻳﻮ/NN.PL.OBL ﻗﻮاو/NN.PL.OBL ﭘﻪ/ADP وﺳﻴﻠﻪ/NN د/ADP اﻓﻐﺎﻧﺴﺘﺎن/NN.SG.M ﻧﻴﻮل/VB او/CC ﺗﺠﺰﻳﻪ/VB  ،/, د/ADP ﻣﺮﮐﺰي/AJ ﺣﮑﻮﻣﺖ/NN.SG.DIR
+         ﻧﺸﺘﻮاﻟﻰ/AJ
+/.   ،/, د/ADP اﻗﺘﺼﺎد/NN.SG.M رﮐﻮد/NN،/, ﻧﺎوړه/AJ ټوﻟﻨﻴﺰ/NN ﺣﺎﻟﺖ/NN.SG او/CC ﭘﻪ/ADP ﮔﺎونډیو/NN.PL.OBL
+ دوﻟﺘﻮﻧﻮ/NN.PL.OBL کې/ADP ﺳﻴﺎﺳﻲ/AJ ﺑﺪﻟﻮﻧﻮﻧﻮ/NN.PL.OBL ﭘﻪ/ADP اﻓﻐﺎﻧﺴﺘﺎن/NN.SG.M کې/ADP د/ADP ﻳﻮه/NN.SG.OBL ﻣﺮﮐﺰي/AJ دوﻟﺖ/NN.SG.M
+د/ADP ﺟﻮړوﻟﻮ/VB ﻟﭙﺎره/ADP ﻻر/NN.SG.DIR ﻫﻮاره/? کړې/AD  وه/?،/. د/ADP ﻧﺎدر/NN.SG.M اﻓﺸﺎر/NN.SG.M ﺗﺮ/ADP وژﻟﻮ/VB وروﺳﺘﻪ/ADP د/ADP
+ﻫﻐﻪ/PR ﭘﻪ/ADP ﻟﻮى/AJ ﭘﻮځ/NN.PL.M کې/ADP ګډوډي/NN ﭘﻴﺪا/VB.PST ﺷﻮه/VB
+./. د/ADP ﻳﺎدوﻧﯽ/? وړ/AJ ده/PR چې/CC د/ADP ﻧﺎدر/NN.SG.M اﻓﺸﺎر/NN.SG.M د/ADP ﭘﻮځ/NN.? ﻳﻮه/NN ﺑﺮﺧﻪ/NN ﻟﻪ/ADP اﻓﻐﺎﻧﺎﻧﻮ/NN.PL.OBL ﺟﻮړه/? وه/VB.PST
+. د/ADP ﻫﻐﻮی/PR شمېره/NN.? څلورزره/NN.PL.DIR.CD ﻏﻠﺠﻴﺎﻧﻮ/NN.PL.OBL، یوویشت/NN.CD زره/NN.CD اﺑﺪاﻟﻴﺎﻧﻮ/NN.PL.OBL او/CC ازﺑﮑﻮ/NN.OBL.PL.M ﺗﻪ/ADP رسېده/? چې/CC
+/. د/ADP ﻋﻤﻮﻣﻲ/AJ  ﻗﻮﻣﺎﻧﺪان/NN.SG.M ﻧﻮرﻣﺤﻤﺪ/NN.SG.M  ﺧﺎن/NN.SG.M  ﻏﻠﺠﻲ/NN.SG.M او/CC  اﺣﻤﺪﺧﺎن/NN.SG.M ﭘﻪ/ADP وړاﻧﺪﻳﺰ/VB اﻓﻐﺎﻧﻲ/NN.PL.DIR.AJ  ﻗﻄﻌﺎت/NN.PL ﮐﻨﺪﻫﺎر/NN.SG.M ﺗﻪ/ADP راﺳﺘﺎﻧﻪ/VB ﺷﻮل/VB.PST.
+وروﺳﺘﻪ/ADP ﻧﻮرﻣﺤﻤﺪ/NN.SG.M ﺧﺎن/NN.SG.M د/ADP ﻏﻠﺠﻴﻮ/NN.PL.M.OBL ، ازﺑﮑﻮ/NN.PL.M.OBL، اﺑﺪاﻟﻴﻮ/NN.PL.M.OBL او/CC ﻫﺰارهﮔﺎﻧﻮ/NN.PL.M.OBL ﻟﻪ/ADP ﻣﺸﺮاﻧﻮ/NN.PL.M.OBL څخه/ADP د/ADP ﻳﻮې/NN.SG.F ﻗﻮﻣﻲ/AJ ﻟﻮيې/AJ ﺟﺮګې/NN.SG د/ADP ﺟﻮړوﻟﻮ/? غوښتنه/VB  وﮐړه/VB،
+ ﺗﺮ/ADP څو/? د/ADP ﺟﺮګې/NN.SG.F ﻟﻪ/ADP غړیو/NN.PL.M.OBL څخه/ADP  ﻳﻮ/NN.CD ﮐﺲ/NN.SG.M د/ADP ﻣﺸﺮ/NN.SG.Mﻳﺎ ﭘﺎﭼﺎ ﭘﻪ ﺗﻮﮔﻪ وټاﮐﻲ او د/ADP اﻓﻐﺎﻧﺴﺘﺎن/NN.SG.M  دﭼﺎرو د/ADP ادارې ﻟﭙﺎره ﻳﻮ ﺣﮑﻮﻣﺖ/NN.SG.M
+ﺟﻮړ/VB کړې/VB،/, چې/CC د/ADP داسې/vk ﺟﺮګې/NN.SG ﺟﻮړوﻟﻮ/VB ﺗﻪ/ADP د/ADP ﻗﻮﻣﻮﻧﻮ/NN.PL.PBL ټوﻟﻮ/NN.PL.OBL ﻣﺸﺮاﻧﻮ/NN.PL.OBL ﻏﺎړه/NN کیښوده/VB
+د/ADP ﺷﻴﺮ/NN.SG.M ﺳﺮخ/NN.SG.M د/ADP ﻣﺰار/NN.SG.M ﺟﺮﮔﻪ/NN.SG.F
+د/ADP ﮐﻨﺪﻫﺎر/NN.SG.M د/ADP ﻧﺎدرأﺑﺎد/M.NN.SG ﭘﻪ/ADP ﻧﻈﺎﻣﻲ/AJ ﮐﻼ/NN.SG کې/ADP ﺟﻮړه/VB ﺷﻮه/VB او/CC ﻧﻬﻪ/NN.CD ورځي/NN.PL.DIR یې/? دوام/VB
+ وکړ/VB.PST د/ADP ﺟﺮګې/NN? غړو/NN.PL.OBL  وروستۍ/PR ﭘﺮیکړې/NN.SG  ﺗﻪ/ADP ﻧﻪ/? رسيدل/VB.CONT ځکه/CC  چې/CC ﻫﺮ/AD ﻣﻘﺘﺪر/AJ ﺧﺎن/AJ ﺳﻠﻄﻨﺖ/NN.SG ﻏﻮښت/VB.PST  او/CC ﻳﻮازې/AJ ﻫﻐﻪ/PR څوک/NN.SG.M چې/CC ﻏﻠﻰ/AJ و/?،/. اﺑﺪاﻟﻰ/NN.SG.M
+ اﺣﻤﺪﺧﺎن/NN.SG.M و/VB  او/CC دا/PR ځکه/CC چې/CC اﺣﻤﺪﺧﺎن/NN.SG.M د/ADP اﺑﺪاﻟﻲ/NN.SG قبيلې/NN  څخه/AF  و/VB او/CC د/ADP شمېر/NN.SG  ﭘﻪ/ADP  ﻟﺤﺎظ/VB  ﻟﻪ/ADP  ﻧﻮرو/NN.PL.OBL  څخه/ADP   ﮐﻢ/AJ  وو/ ./.

@@ -1,0 +1,15 @@
+﻿د/ADP اميردوست/NN.SG.M محمدخان/NN.SG.M  لومړی/OD  امارت/NN
+(۱۸۳۹-۱۸۳۶م)
+د/ADP امير/NN.SG.M  په/ADP  توګه/NN  له/ADP  ټاکلو/VB  وروسته/AD    د/ADP دوست محمد/NN.SG.M   خان/AJ  لومړی/OD  کار/NN  دا/DT  وو/VB ،/,
+چې/CC   تر/ADP  شک/NN  لاندی/ADP.AD   واليان/NN.PL.M  او/CC  حاکمان/NN.PL  يي/PR  له/ADP  وظيفو/NN.PL.OBL  ګوښه کړل/VB ./.
+ او/CC د/ADP هغوی/PR  پر/ ځای/NN  يي/PR  خپل/PR  ځامن/NN.PL  وټاکل/VB  ،/, تر/ADP څو/IA    دده/PR  امارت/NN.SG.M   د/ADP اعلان/NN  په/ADP  مقابل/  کې/ADP  د/ADP مخالفتونو/NN.PL.OBL  مخه/NN  ونيول شي/VB ./.
+د/ADP امير/NN.SG.M  دوست محمد خان/NN.SG.M   په/ADP  مشرۍ/AJ  د/ADP بارکزيو/NN.PL.OBL  دولت/NN.SG.M  په/ADP  يوه/CD  کوچني/AJ  قلمرو/NN  کی/ADP  په/ADP  ابتدايي/AJ  شکل/NN  جوړ شو/VB ./.
+ او/CC  له/ADP  مخکينۍ/AJ  د/ADP دوری/NN  سره/ADP  يي/PR  يواځې/ په/ADP  نوم/NN  خطبه/NN  او/CC  سکه/NN  کی/ADP  توپير/NN  کېده/VB ./.
+په/ADP  سياسي/AJ  لحاظ/  افغانستان/NN.SG.M   لاهمغسې/  په/ADP  ملوک الطوايفي/NN  ويشل/VB  شوی وو/VB ./.
+ اميردوست/NN.SG.M  محمد/NN.SG.M  خان/AJ  پخپل/PR  قلمرو/NN کې/ADP  منظمه/AJ  اداره/NN  او/CC  وزارتونه/NN.SG.PL يو/CD داسې/DT سياسي/AJ واک/NN او/CC حسابي/AJ نظام/NN نه/CC درلود/VB چې/CC د/ADPيو/CD عصری/AJ او/CCلازم/AJ دولت/NN.SG.M نمايندګي/NN وکړي/VB.
+امير/NN.SG.M پخپل/PR عام/AJ دربارکې/NN.SG.M د/ADPخلکو/NN.PL.OBL د/ADPستونزو/NN.PL.OBL او/CCعريضو/NN.PL.OBL د/ADPکتلو/VB او/CC څېړلو/VB ټاکلي/NN وخت/NN او/CC ورځ /NN.SG نه/CC درلوده/VB! بلکې/CC هره/DT ورځ/NN يي/PR د/ADPلمانځه/NN له/ADP ادا/VB کولو/VB او/CCتلاوت/VB وروسته/AD دربار/NN.SGکاوه/VB او/CC خلکو/NN.PL.OBL ته/ADP يی/PR لارښوونه/NN کوله/VB.
+ د/ADPسيمو/NN.PL.OBL ماليات/NN.PL به/PT شهزادګانو/NN.PL.OBL او/CC قبائلي/AJ مشران/NN.PL راټولول/VB.
+د/ADPامير/NN.SG.M دويم/OD کا د/ADPپيښور/NN.SG.M دوباره/AD ازاد/AJولو/VBپخاطر/AD له/ADP سکانو/NN.PL.OBL سره/ADP جګړی/NN ته/ADP تياری/VB وو/VB.
+ هغه/PR لا/ADپخوا/ADP د/ADPبسپنې/NN د/ADPراټولو/VBکار/NNپېل/NN کړی وو/VB. چې/CC په/ADP نتيجه/NN کېADP يي/PR نيږدی/AD پنځه/CD لکه/CD پيسې/NN.PL. راټولې/VB شوی/VB وی/VB
+او/CC هم/CC يي/PR د / ۱۸۳۶م/ کال/NN.SG. د/ADPفبروري/NN په/ADP مياشته/NN کې/ADP د/ADPخپل/PR فوځ/NN د/ADPسوق کول/VB تر/ADPڅنګ/AD په/ADP هند/NN.SG.M کې /ADPد/ADPانګليسي/NN ګورنر/NN لارډ بنتک/NN څخه/ADP د/ADPیوه/CD ليک/NN په/ADP ترڅ/AD کې/ADP د/ADPپيښور/NN.SG.M د/ADPبېرته/AD نيولو/VBپه/ADP کار/NNکېADP د/ADPبرتانيي/NN.SG مرسته/VB وغوښته/VB ګورنر/NN په/ADP ظاهره/AJ د/ADPافغان/NN.SG.M او/CCسکانو/NN.PL.OBL ترمينځ/ADP خپله/PR خېر خواهي /VBښکاره/VB کړه/VB.
+ او/CC له/ADP مداخلې/VB څخهADP يي/PR ځان/NN وژغوره/VB او/CC يواځې/AD د/ADPتجارتي/AJ اړيکو/NN.PL.OBL غوښتنه/NN يي/PR وکړه/VB او/CCد/ADPدغه/ADP مقصد/NN  لپاره/ADP يې/PR کابل/NN.SG.M ته/ADP د/ADPخپل/PR استازي/NN د/ADPلېږلو/VBېمنه/NN وکړه/VB.،جګړی/NN ته/ADP د/ADP روانيدو/VB په/ADP ورځ/NN د/ADPامير/NN په/ADP خزانه/NN.F کی/ADP دری/CD لکه/CD روپۍ/NN.PL موجودوی/VB خو/CC سره/ADP له/ADP دی/PT امير/NN د/ADPخلکو/NN.PL.OBL د/ADP فشار/NN له امله/ADP خپل/PR ورور/NN سلطان/NN محمد خان/NN باجوړ/NN ته/ADP  د/ADP لښکرو/NN د/ADP راټولولو/VB پخاطر/? واستاوه/VB  ،

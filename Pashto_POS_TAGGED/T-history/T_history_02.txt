@@ -1,0 +1,11 @@
+﻿د/ADP ﺗﻴﻤﻮرﺷﺎه/NN.SG.M ﭘﺎﭼﺎﻫﻲ/AJ  ٣٧٧١-٣٩٧١
+د/ADP اﺣﻤﺪ ﺷﺎه/NN.SG.M ﺑﺎﺑﺎ/NN.SG.M څخه/ADP  وروﺳﺘﻪ/ADP د/ADP ﻫﻐﻪ/3.PR ځای/NN.SG.M ﻧﺎﺳﺘﻮ/NN.PL.OBL او/ADP ورثې/NN.PL.F ﮐﻮﻻی/VB ﺷﻮ/VB ﻫﻐﻪ/PR ﻟﻮﻳﻪ/AJ اﻣﭙﺮاﺗﻮري/NN.SG.F چې/CC ﻟﻪ/ADP ﻫﻐﻪ/PR څخه/ADP  ﭘﻪ/ADP ﻣﻴﺮاث/NN.SG.M ﭘﺎﺗﻲ/VB وه/VB  وﺳﺎﺗﻲ/VB.PST.
+ﺗﻴﻤﻮرﺷﺎه/NN.SG.M د/ADP اﺣﻤﺪ/NN.SG.M ﺷﺎه/NN.SG.M ﺑﺎﺑﺎ/NN.SG.M زوى/NN.SG.M ﭘﻪ/ADP ٢٤٧١/ زيږدیز/AJ ﮐﺎل/NN.SG.M ﭘﻪ/ADP ﻣﺸﻬﺪ/NN.SG.M کې/ADP زيږيدﻟﻰ/VB.PST دى/VB./. ﻫﻐﻪ/PR.3 د/ADP زده کړو/VB ﺧﺎوﻧﺪ/NN.SG.M او/ADP د/ADP درې/NN.SG.F ژبي/NN.SG.F ﺷﺎﻋﺮ/NN.SG..M و/VB.PST./. د/ADP اﺣﻤﺪﺷﺎه/NN.SG.M ﺑﺎﺑﺎ/NN.SG.M د/ADP مړيني/VB ﭘه/ADP وﺧﺖ/NN.SG.M کې/ADP  يې/PR د/ADP ﻫﺮات/NN د/ADP واﻟﻲ/NN.SG.M ﭘﻪ/ADP ﺗﻮﮔﻪ/NN دنده/NN.SG.F  درﻟﻮده/VB.PST. اﺣﻤﺪﺷﺎه/NN.SG.M ﺑﺎﺑﺎ/NN.SG.M ﻫﻐﻪ/PR.3 ﭘﻪ/ADP ﺧﭙﻞ/PR ژوﻧﺪ/NN.SG.M کې/ADP  وﻟﻴﻌﻬﺪ/NN.SG.M ﻳﺎ/CC ځاﻳﻨﺎﺳﺘﻰ/NN.SG.M ټاﮐﻠﯽ/VB و/VB ././.
+.
+ د/ADP اﺣﻤﺪﺷﺎه/NN.SG.M ﺑﺎﺑﺎ/NN.SG.M ﺗﺮ/ADP مړينې/ وروﺳﺘﻪ/AD ﺷﻬﺰاده/NN.SG.M سليمان/NN.SG.M  د/ADP ﺧﭙﻞ/PR ﺧﺴﺮ/NN.SG.M صدراﻋﻈﻢ/NN.SG.M ﺷﺎه/NN.SG.M وﻟﻲ/NN.SG.M ﺧﺎن/NN.SG.M ﭘﻪ/ADP ﻣﺮﺳﺘﻪ/NN.SG.M د/ADP ﭘﺎﭼﺎﻫﻲ/NN.SG.F اﻋﻼن/NN وکړ/VB.PST
+/..
+ﮐﻠﻪ/AD چې/CC  ﺷﻬﺰاده/NN.SG.M  ﺗﻴﻤﻮر/NN.SG.M ﻟﻪ/ADP ﻫﺮاﺗﻪ/NN.SG.OBL ﮐﻨﺪﻫﺎر/NN.SG.M ﺗﻪ/? راﻏﻰ/VB.PST  ،/, ﺷﻬﺰاده/NN.SG.M سليمان/NN.SG.M یې/3.PR ﺑﻨﺪي/AJ او/ADP ﺷﺎه/NN.SG.M وﻟﻴﺨﺎن/NN.SG.M یې/PR  وواژه/VB.PST. ﭘﻪ/APD دې/PR ﺗﻮګه/NN  ﺗيمورﺷﺎه/NN.SG.M ﭘﺎﭼﺎهۍ/NN. ﺗﻪ/ADP ورسيد/VB.PST ./. ﺗﻴﻤﻮرﺷﺎه/NN.SG.M د/ADP خپلې/PR  ﭘﺎﭼﺎهۍ/NN  ﭘﻪ/ADP ﻟﻮمړۍ/NN.OD ﮐﺎل/NN.SG.M ﭘﺎﻳﺘﺨﺖ/NN.SG.M ﻟﻪ/ADP ﮐﻨﺪﻫﺎره/NN.SG.OBL ﮐﺎﺑﻞ/NN.SG.M ﺗﻪ/ADP اﻧﺘﻘﺎل/VB کړ/VB
+/..
+ﺗﻴﻤﻮرﺷﺎه/NN.SG.M  څو/QT  داﺧﻠﻲ/AJ او/ADP ﺑﻬﺮﻧﻲ/AJ ﭘﺎڅوﻧﻮﻧﻪ/NN.PL.M ﭘﻪ/ ﺑﺮﻳﺎﻟﻴﺘﻮب/AJ ﺳﺮه/ADP ﻟﻪ/ADP منځه/NN ﻳﻮوړل/VB.PST./. ﺗﻴﻤﻮرﺷﺎه/NN.SG.M د/ADP خپلې/PR.1 ﭘﺎﭼﺎهۍ/NN.SG.F ﭘﻪ/ADP    ٢ ﮐﻠﻨﻪ/AJ ﻣﻮده/NN.SG کې/ADP وکړاى/VB ﺷﻮل/VB.PST
+چې/CC ﻫﻐﻪ/PR ﺳﻴﻤﻲ/NN.PL.DIR چې/CC ﻟﻪ/ADP ﭘﻼره/NN.SG.OBL یې/PR ورﺗﻪ/PR ﭘﻪ/ADP ﻣﻴﺮاث/NN.SG.M ﭘﺎتي/VB وې/VB  ،/, وﺳﺎﺗﻲ/VB.PST. د/ADP ﻫﻐﻪ/PR ﺗﺮ/ADP ﻣﺮگ/NN.SG.M وروﺳﺘﻪ/AD د/ADP ﻫﻐﻪ/PR.3 د/ADP زاﻣﻨﻮ/NN.PL.OBL بې/? اﺗﻔﺎﻗﻲ/?  د/ADP اﻳﺮان/NN.SG.M ﻻﺳﻮهنې/AJ او/ADP د/ADP روﺳﺎﻧﻮ/NN.PL.OBL او/ADP اﻧﮕﻠﻴﺴﺎﻧﻮ/NN.PL.OBL ﺳﻴﺎلۍ/NN.SG.F د/ADP اﻓﻐﺎﻧﻲ/AJ ﻟﻮیې/NN.SG اﻣﭙﺮاﻃﻮرۍ/NN.SG.F د/ADP ﺳﻘﻮط/NN.SG.M ﺳﺒﺐ/VB ﺷﻮې/VB ،/, ﺗﻴﻤﻮرﺷﺎه/NN.SG.M ﭘﻪ/ADP ٣٩٧١ز ﮐﺎل/NN.SG.M کې/ADP مړ/AJ او/ADP د/ADP ﮐﺎﺑﻞ/NN.SG.M ﭘﻪ/ADP ﭼﻬﺎرﺑﺎغ/NN.SG.M کې/ADP ﺧﺎورو/NN.PL.PBL ﺗﻪ/ADP وﺳﭙﺎرل/VB ﺷﻮ/VB ./.
+ 

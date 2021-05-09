@@ -1,0 +1,15 @@
+﻿/*http://www.bbc.com/pashto/world/2016/09/160926_ns_galaxy_note7_sale_delays
+26  / سپتمبر/NN 2016 - 05 تله 1395*/
+د سامسنګ/NN.SG.M نوټ/NN  ۷ دویم/OD  ځلي پلور/NN  کې/ADP  ځنډ/NN  راغلی/VB
+د/ADP  سویلي/AJ  کوریا/NN.SG تکنالوژي/NN  کمپنۍ/NN.SG سامسنګ/NN.SG.M وايي/VB ، د/ADP ګلیکسي/NN.SG  نوټ/NN.SG  ۷ ځېرک/AJ  ټیلیفون/NN.SG  دویم/OD  ځلې/ پلور/NN   یې/PR  ځنډولی/VB  دی/VB .
+  دغه/PR  شرکت/NN.SG  وايي/VB ، دوی/PR  له/ADP  نړیوال/AJ  بازار/NN.SG  نه/CC  د/ADP   دغه/PR  ماډل/NN.SG  ۲۵۰ زره/CD  ټیلیفونونو/NN.PL.OBL  بېرته/AD  ټولولو/VB  لپاره/ADP  وخت/NN  ته/ADP  اړتیا/NN  لري/VB .
+د/ADP  نوټ سیون/NN  بېټریو/NN.PL.OBL   کې/ADP  د/ADP ستونزې/NN.PL  له/ADP  کبله/NN  شرکت/NN.SG  له/ADP  نړیوال/AJ  بازاره/NN  د/ADP   دغه/PR  ماډل/NN  ټیلیفونو/NN.PL  بېرته/AD  ټولولو/VB  اعلان/NN  کړی/VB  و/VB .
+د/ADP  یاد/ ټیلیفون/NN.SG  بېټرۍ/NN.SG  د/ADP چارج/NN.SG  کولو/VB  پر/ADP  مهال/NN  یا/CC  له/ADP  هغه/PR  وروسته/AD  چاودلې/VB  وې/VB  او/CC له/ADP  هغه/PR  وروسته/AD  شرکت/NN.SG  اعلان/NN  وکړ/VB ، او/CC   دغه/PR  ماډل/NN.SG  ټیلیفونونه/NN.PL.DIR  به/PT  بېرته/AD  له/ADP  بازاره/NN  ټول کړي/VB .
+روانه/VB  میاشت/NN.SG  سامسنګ/NN.SG.M اعلان/NN  وکړ/VB ، او/CC د/ADP نوټ ۷ د/ADP بېټرۍ/NN.SG  وړتیا/NN   یې/PR  ۶۰ سلنې/NN  ته/ADP  پورته/AD  کړې/VB  ده/VB .
+اوس/AD  به/PT  سویلي/AJ  کوریا/NN.SG  کې/ADP    دغه/PR  ټیلیفون/NN.SG  د/ADP روانې/VB  سپټمبر/NN.SG  میاشتې/NN  تر/ADP  ۲۸ پورې/AD  بازار/NN.SG  ته/ADP  ولېږل شي/VB ، خو/CC  مشتریان/NN.PL   یې/PR  کولای شي/VB  د/ADP اکتوبر/NN.SG  له/ADP  لومړۍ/OD  نېټې/NN  وروسته/AD   یې/PR  ترلاسه/VB  کړي/VB .
+سامسنګ/NN.SG  د/ADP سپتمبر/NN  په/ADP  دویمه/OD  نېټه/NN  د/ADP نوټ/NN  ۷ د/ADP پلور/NN  درولو/VB  تر/ADP  څنګ/AD  وویل/VB ، او/CC   دغه/PR  ډول/NN  موبایلونه/NN.PL.DIR  به/PT  له/ADP  بازاره/NN  ټول کړي/VB  او/CC د/ADP   دغه/PR  موبایل/NN.SG  نه/CC  کارولو/VB  مشوره/NN.SG   یې/PR  ورکړې/VB  وه/VB .
+د/ADP  سامسنګ/NN.SG.M دغې/  پرېکړې/NN  اغېز/NN  پر/ADP  ۱۰ نړیوالو/NN.PL  بازارونو/NN.PL.OBL  شوی/VB  دی/VB . سویلي/AJ  کوریا/NN.SG  کې/ADP  وار له مخه ۲۰۰ زره/CD  کسانو/NN.PL  خپل/PR  موبایلونه/NN.PL.DIR  شرکت/NN.SG  ته/ADP  سپارلي دي/VB .
+د/ADP  رویټرز/NN  خبري/NN.PL  اژانس/NN  په/ADP  رپوټ/NN  کې/ADP  ویل/VB  شوي/VB ، او/CC اکتوبر میاشت کې به له سویلي کوریا وروسته نوټ ۷ اسټرالیا او/CC سنګاپور کې پلور ته/ADP  وړاندې شي.
+بریتانیا/NN.SG  کې/ADP  سامسنګ/NN.SG.M د/ADP سپتمبر/NN  له/ADP  ۱۹ وروسته/AD  د/ADP   دغه/PR  موبایل/NN.SG  بدلولو/VB  اعلان/NN  کړی/VB  او/CC مشتریانو/NN.PL  ته/ADP   یې/PR  ویلي/VB ، او/CC اړوند/ د/ADP کانونو/NN.PL.OBL ته/ADP  ورشي/VB .
+د/ADP  نیویارک/NN.SG  پوسټ/NN.SG  یوه/CD  رپوټ/NN.SG  کې/ADP  ویل شوي/VB ، او/CC دا/DT  وروستیو/AD  کې/ADP  بروکلین/NN  سیمې/NN  کې/ADP  د/ADP یوه/CD  ماشوم/NN.SG  لاس/NN.SG  هغه/PR  مهال/  وسوځېد/VB ، او/CC موبایل/NN.SG   یې/PR  لاس/NN.SG  کې/ADP وچاودېد/VB .
+له/ADP  هغه/PR  وروسته/AD  امریکايي/AJ  چارواکو/NN.PL  له/ADP  هوايي/AJ  سفر/NN  کونکو/VB  وغوښتل/VB ، او/CC د/ADP الوت/NN  پر/ADP  مهال/ د/ADP سامس/NN  د/ADP   دغه/PR  ماډل/NN  له/ADP  چارج/NN  کولو/VB  او/CC یا/CC  چالانولو/VB  ډډه/ وکړي/VB .

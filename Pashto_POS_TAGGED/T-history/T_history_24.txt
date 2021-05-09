@@ -1,0 +1,11 @@
+﻿د/ADP  محمدظاهرشاه/NN.SG.M سلطنت/NN.SG.M او/CC دويمه/NN.OD.DIR   نړيواله/NN.F  جگړه/NN.F.SG
+د/ADP  محمدنادرشاه/NN.SG.M  تر/ADP  وژلو/VB  وروسته/AD  کورنۍ/NN.F   شورا/NN  جوړه/VB  او/CC د/ADP اساسي/AJ
+اصولو/NN.PL  د/ADP پنځمی/NN.OD.DIR  مادې/NN.F  سره/ADP  سم/ د/ADP محمدظاهرشاه/NN.SG.M  زوی/NN  چی/CC ۱۹ کلن/NN  و/VB ،/, پاچاهۍ/AJ.NN  ته/ADP  وټاکل/VB  شو/VB .
+د/ADP  اساسی/AJ  اصولنامې/NN.DIR  سره/ADP  سم/  ټول/ADP   ملت/NN.SG.M  یې/PR  تابیعت وکړ/VB ./.  نوم/NN.SG.M  یی/PR  په/ADP خطبه/NN  کې/ADP ولوستل/VB  شو/VB
+او/CC  په/ADP نامه/NN یې/PR  سکه/NN  ووهل/VB  شوه/VB  او/CC د/ADP شورا/NN  د/ADP مصلحت/VB.NN  له/ADP  مخې/ د/ADP المتوکل/NN.SG.M  علی الله/NN.SG.M   لقب/NN.SG.M  هم/AD  ورکړل/VB  شو/VB ،
+چی/CC څلویښت/CD  کاله/NN.PL   یې/PR  له/ADP  نامه/NN  سره/ADP  یو/CD  ځای/NN  وه/VB .
+دا/PR چی/CC د/ADP محمدظاهر/NN.SG.M   عمر/NN  لږ/AJ او/CC د/ADP کار/NN  تجربه/NN  یې/PR  نه درلوده/VB ، نو/CC  ټول/  کارونه/NN.PL  یې/PR  د/ADP مشر/AJ.NN   تره/NN  محمد/NN.SG.M   هاشم/NN.SG.M
+خان/NN  په/ADP غاړه وه/VB
+د/ADP  محمدظاهرشاه/NN.SG.M   د/ADP پاچاهۍ/NN  په/ADP لومړیو/OD.OBL  کلونو/NN.PL.OBL  کې/ADP دویمه/OD   نړیواله/NN.AJ    جګړه/NN  پیښه شوه/VB
+ دویمه/OD  نړیواله جګړه په/ADP۱۹۳۹ ز کې/ADP پيل او/CCپه/ADP۱۹۴۵ ز کې/ADP پای/  ته/ADP  ورسیده/VB  .
+د/ADP  دې/PR  جګړې/NN  لمبې/NN.PL  چی/CC له/ADP  اروپا/NN.SG  څخه/ADP  راپورته شوې وې/VB ، ډیرژر/AD  اسیا/NN.SG.F  او/CC د/ADP نړۍ/NN.SG.F  نورو/ برخو/NN  ته/ADP  ورسیدې/VB ..

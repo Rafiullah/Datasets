@@ -1,0 +1,14 @@
+﻿
+
+/* http://www.pashtovoa.com/a/solar-plane-world-trip-/3435257.html
+زمری 05, 1395
+*/
+یوه/CD  الوتکه/NN.SG  د/ADP لمر/NN.SG  د/ADP انرژۍ/NN نه/ADP  په/ADP استفادې/VB  د/ADP نړۍ/NN  چاپیره/ADP.AD  وگرځیده/VB
+د سولر/NN  امپولز/NN  ٢/CD  په/ADP نامه/NN  د/ADP لمر/NN.SG  په/ADP انرژۍ/NN  چلیدونکې/VB  الوتکې د/ADP نړۍ/NN  پر/ADP  شاو خوا/AD  د/ADP ١٧/CD  میاشتني/NN  سفر/VB  او/CC۴٢٠٠٠ زره/NN  کیلومیتره/NN.PL  واټن/NN  تر/ADP  وهلو/VB  وروسته/AD  بیرته/ ابو/NN  د/ADP ابی/NN  ته/ADP  راستنه/VB  شوه/VB .
+سولر /NN امپولز /NN ٢/CD  لومړنۍ/OD  الوتکه/NN.SG  ده/PR  چې/CC د/ADP لمر/NN.SG  له/ADP  انرژۍ/NN  څخه/ADP په/ADP استفادې/VB  د/ADP نړۍ/NN.SG  پر/ADP  شاو خوا/AD/ADP  راوڅرخیدله/VB .
+په/ADP  سویس /NN.SG کې/ADP د/ADP دې/PR.PT   جوړې/VB شوې/VB  الوتکې/NN.PL  د/ADP وو/VB  سویسي/AJ  څیړونکو/NN  اندرې/NN  بورشبرگ/NN  او/CC برتراند/NN  پیکارت/NN  وکولای/VB  شول/VB  چې/CC په/ADP دې/DT  کار/NN  سره/ADP  د/ADP انرژۍ د/ADP نویو/AJ  منابعو/NN  وړتیا/NN  په/ADP ډاگه/NN  کړه/VB .
+دغه/PR  الوتکهV  د/ADP ٢٠١٥ کال/NN  د/ADP مارچ/NN  په/ADP٩ له/ADP  ابو د/ADP ابۍ/NN  نه/CC  والوتله/VB  او/CC په/ADP ساعت/NN  کې/ADP د/ADP ٨٠ کیلو میتره/NN.PL  واټن/NN  په/ADP وهلو/VB  سره/ADP  یې/PR  ٥٠٠ ساعته/NN.PL  پرواز/NN  وکړ/VB .
+د/ADP  هوا/NN  د/ADP خرابۍ/AJ  په/ADP نتیجه/NN  کې/ADP د/ADP دې/DT څلورماشینه/AJ  الوتکې/NN.SG  انجن/NN  زیانمن/AJ  شو/VB او/CC مجبوره/NN  شوه/VB  چې/CC د/ADP خپل/PR  ١٦/CD   مرحله/NN  یي/PR  پرواز/NN  په/ADP ترڅ/AD کې/ADPڅو/IA  میاشتې/NN.PL  پر/AD  ځمکه/NN پاته شي/NN.
+دغه/PR  الوتکه/NN.SG   د/ADP خپل/PR  سفر/NN  په/ADP ترڅ/AD  کې/ADP په/ADP  عمان/NN.SG ، هند/NN.SG ، برما/NN.SG ، چین/NN.SG ، جاپان/NN.SG ، متحده ایالاتو/NN.PL ، اسپانیا/NN.SG ، ایټالیا/NN.SG ، مصر/NN.SG  او/CC په/ADP عربي/AJ  متحده/AJ  اماراتو/NN.PL  کې/ADP تم شوی/VB  ده/VB .
+همداشان/ دغه/PR  په/ADP پاکې/AJ  انرژۍ/NN  چلیدونکې/VB  الوتکه/NN.SG  د/ADP امریکا/NN.SG  په/ADP متحده/AJ  ایالاتو/NN.PL  کې/ADP په/ADP  کالیفرنیا/NN.SG ، ایروزونا/NN.SG ، اوکلهاما/NN.SG ، اوهایو/NN.SG ، پنسلوانیا/NN.SG  او/CC نیویارک/NN.SG  کې/ADP ښکته/AD  شوی وه/VB
+

@@ -1,0 +1,19 @@
+﻿/*
+http://www.bbc.com/pashto/weather/2014/04/140412_ia_ipcc_scientists_accused_of_marginalising_poor_nations12 اپریل 2014 - 23 وری 1393
+*/
+"اقلیم/NN.SG.M  ساینس/NN.SG.M  پوهانو/NN.PL.OBL  مخ/NN  په/ADP ودې/AJ  هېوادونه/NN.PL.DIR  هیر/NN  کړي/VB "/"
+
+ د/ADP اقليم/NN.SG.M  ساينسپوهان/NN.PL.DIR  چې/CC برلين/NN.SG.M  کې/ADP غونډه/NN.SG.F  کوي/VB   د/ADP مخ/NN  پرودې/AJ  هېوادونو/NN.PL.OBL  نظريو/NN.PL.OBL  ته/ADP پر/ADP  نه پام/NN  تورن/NN  شوي دي/CVB ./.
+دوى/PR   د/ADP ځمکې/NN   د/ADP خظرناکې/AJ  تودوخې/NN   دمخنيوي/VB  په/ADP موخه/NN   د/ADP کاربن/NN.SG.M  غازو/NN.PL   د/ADP خپرېدا/VB  کمولو/VB  په/ADP برخه/NN  کې/ADP يوه/CD  مهم/AJ  رپوټ/NN.SG.M  خپرولو/VB  ته/ADP چمتو/AJ   کوي/VB .
+په/ADP  احتمالي/AJ   ډول/NN  به/PT  دوى/PR  دا/DT  وايي/VB  که/CC  تر/ADP  ٢٠٣٠ کال/NN  پورې/AD  په/ADP دې/PR  برخه/NN  کې/ADP مهم/AJ  گامونه/NN.PL  اوچت/NN  نه شي/VB  نو/CC   د/ADP تودوخې/NN  درجه/NN  به/PT  په/ADP چټکۍ/AJ  سره/ADP  پورته/AD  شي/VB ./.
+خو/CC   د/ADP رپوټ/NN.SG.M  يوه/CD  مخکښ/AJ  ليکوال/NN.SG.M  بي بي سي/NN.SG ته/ADP وويل/VB  چې/CC د/ADP کاربن/NN  داى/NN  اکساي/NN  د/ADP  د/ADP خپرېدا/VB  کمولو/VB  ته/ADP پاملرنه/NN   د/ADP بي وزلو/NN.PL  هېوادونو/NN  پرمختيا/AJ  له/ADP  پامه/NN  غورځولو/VB   په/ADP مانا/NN  ده/VB ./.
+ د/ADP رپوټ/NN په/ADP افشا/NN  شوې/NN  مسودې/NN  کې/ADP د/ADP اقليم/NN  ساينسپوهانو/NN.PL.OBL  ليکلي/VB  دي/VB  چې/CC د/ADP١٧٥٠ او/CC١٩٧٠ کلونو/NN.PL.OBL  پورې/AD   د/ADP خپروشویو/VB  شين/NN.SG  کوریزو/NN.SG  غازو/NN.PL  اندازه/NN  شاوخواADP  ٩٠٠ ميليارده/CD  ټنه/NN.CD  وه/VB ./.
+خو/CC  کله/AD  چې/CC تاسو/PR  ١٧٥٠ او/CC٢٠١٠ کلونو/NN  په/ADP موده/NN  کې/ADP خپاره شوي/VB  غازونه/NN.PL  اندازه/CC  کړي/VB  نو/CC  ٢٠٠٠ ميليارده/CD  ټنه/CD  کاربن/NN  داى/NN  اکسايدو/NN  ته/ADP رسېږي/VB .
+رپوټ/NN  کې/ADP دا/DT هم/AD  راغلي/VB  دي/VB  چې/CC٢٠٠٠ او/CC٢٠١٠ کلونو/NN  په/ADP موده/NN   د/ADP غازو/NN  خپرېدا/VB  هر/QT  کال/NN  ٢،٢ سلنه/CD  وده کړې/VB ، په/ADP داسې/DT  حال/NN  کې/ADP چې/CC   د/ADP١٩٧٠ او/CC٢٠٠٠ کلونو/NN  په/ADP پړاو/NN  کې/ADP دغه/PR  وده/NN  يوازې/AD  ١،٣ سلنې/CD  وه/VB ./.
+ د/ADP دوه/CD  سانتي/NN  گېراد/NN څخه/ADP   د/ADP ځمکې/NN   د/ADP تودوخې/AJ  درجې/NN   د/ADP ودې/NN  کچې/NN   د/ADP ښکته/AJ  ساتلو/VB  تر/ADP  ٢١٠٠ کال/NN  پورې/ADP   به/PT  په/ADP فضا/NN  کې/ADP د/ADP کاربن داى اکساي/NN.SG  د/ADP په/ADP  يو/CD  ميليون/NN.CD  کې/ADP ٤٣٠ او/CC٤٨٠ برخې/NN.PL  وي/VB ./.
+وړاندوينه/NN  دا/DT  ده/VB  چې/CC ترې/ADP  ٢٠٣٠ کال/NN  پورې/AD  به/PT  په/ADP فضا/NN  کې/ADP د/ADP کاربن داى اکساي/NN  د/ADP په/ADP  يو/CD  ميليون/CD  کې/ADP٤٣٠  برخې/NN.PL  ته/ADP ورسېږي/VB  چې/CC له/ADP  همدې/PR  کبله/ رپوټ/NN  په/ADP چټک/AJ  ډول/NN   د/ADP کاربن داى اکساي/NN  د/ADP د/ADP خپرېدا/VB  پر/ADP  کمېدو/VB  ټينگار/NN  کوي/VB ./.
+رپوټ/NN  وايي/VB  راتلونکې/NN  کې/ADP مخ/NN په/ADP ودې/ هېوادونو/NN  کې/ADP به/PT   د/ADP غازو/NN   د/ADP خپرېدا/VB  وده/NN  ډېره/AD  وي/VB .
+همدا/PR  به/PT په/ADP برلين/NN  کې/ADP د/ADP غونډې/NN  د/ADP بحث/NN  موضوع /NN  وي/VB چې/CC څنگه/AD  او/CC په/ADP څه/IA  ډول/NN   د/ADP ځمکې/NN   د/ADP خطرناکه/AJ  تودوخې/NN  مخه/NN  ونيول/VB  شي/VB ؟
+تمه/NN  کېږي/VB  چې/CC پرمختللي/AJ  هېوادونه/NN  به/PT  ووايي/VB  له/ADP  ٢٠٠٥ کال/NN  نه  پيل/NN  تر/ADP ٢١٠٠ کال/NN  پورې/ADP   غځېږي/VB  چې/CC ډېر/AD  غاز/NN  به/PT  مخ/NN  په/ADP ودې/NN  هېوادونو/NN.PL.OBL  کې/ADP خپرېږي/VB ./.
+که/CC  څه/IA  هم/AD  چې/CC رپوټ/NN   د/ADP نړۍ/NN.F   د/ADP تودوخې/AJ  لارې/NN  چارې/NN  په/ADP گوته/NN  کوي/VB  خو/CC  منتقدين/NN.PL   وايي/VB  دغه/PR  رپوټ/NN   د/ADP مخ/NN  په/ADP ودې/NN  هيوادونو/NN   د/ADP نظريو/NN.PL.OBL   څرگندويي/VB نه کوي/VB  ځکه/CC  چې/CC د/ADP رپوټ/NN  په/ADP ليکلو/VB  کې/ADP د/ADP دغو/PR  هېوادونو/NN.PL  په/ADP استازيتوب/VB   چا/PR  برخه/NN  نه ده/VB  اخيستې/VB .
+خو/CC   د/ADP اقليم/NN  ساينسپوهان/NN.PL  وايي/VB  دوى/PR  هڅه/NN  کوي/VB  چې/CC مخ/NN  په/ADP ودې/  هېوادونه/NN  هم/AD  په/ADP دې/PR  کې/ADP ښکيل/NN کړي/VB .

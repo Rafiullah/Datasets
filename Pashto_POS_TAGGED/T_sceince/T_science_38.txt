@@ -1,0 +1,10 @@
+﻿/*http://www.bbc.com/pashto/world/2016/09/160920_hh-samsung_sells_stakes_4_companies
+20 سپتمبر 2016 -*/
+سامسنګ/NN.SG.M  څلورو/CD.OBL  شرکتونو/NN.PL.OBL کې/ADP  خپله/PR  ونډه/NN  پلورلې/VB
+د/ADP  ټکنالوژۍ/NN.F  برخه/NN  کې/ADP  د/ADP جنوبي/AJ  کوریا/NN.SG.M  لوی/AJ  شرکت/NN.SG  سامسنګ/NN.SG.M  ویلي/VB ،/,  پر/ADP  خپلو/PR  "/" اصلي/AJ  کارونو/NN.PL.OBL  یې/PR  د/ADP پام/NN  ورټولولو/VB "/"  او/CC پانګې/NN  ډېرولو/VB  په/ADP موخه/NN  په/ADP څلورو/CD  شرکتونو/NN.PL.OBL  کې/ADP  خپلې/PR  ونډې/NN  پلورلې/VB  دي/VB ./.
+سامسنګ/NN.SG.M   په/ADP څلورو/CD  نورو/DT  شرکتونو/NN.PL.OBL  کې/ADP  د/ADP ۸۸۸٫۹ میلیون/NN  ډالرو/NN.PL  په/ADP ارزښت/NN  ونډې/NN  لري/VB ./.
+سامسنګ/NN.SG.M  دا/DT  پرېکړه/NN  د/ADP خپل/PR  نوي/AJ  ګلکسي/NN.SG  نوټ/NN  ۷ له/ADP  بېرته/AD  اخیستو/VB  وروسته/AD  کړې ده/VB ./.  داسې/DT رپوټونه/NN.PL.DIR  خپاره شول/VB  چې/CC ګني/PT  ګلکسي/NN  نوټ/NN  ۷ د/ADP ناسمې/AJ  بېټرۍ/NN.F  له/ADP  کبله/  اور/NN.M اخیستی دی/VB ./.
+شنونکي/NN.PL  وايي/VB ،/,  دې/PR  پېښې/NN  سامسنګ/NN.SG.M  شرکت/NN.SG.M  ته/ADP  نژدې/AD  یو/CD  میلیارد/NN.CD  ډالر/NN  زیان/NN  اړولی/VB  دی/VB ./.
+سامسنګ/NN.SG.M  په/ADP امریکايي/AJ  "/" رامبوس/NN "/"  شرکت/NN.SG  چې/CC الکترونیکي/AJ  شیان/NN  جوړوي/VB ،/,  او/CC سي ډي/NN  جوړوونکي/NN.PL   "/" سیګایټ/NN "/"  او/CC د/ADP هالنډ/NN.SG.M  "/" اې ایس ایم ایل/NN "/"  او/CC جاپاني/AJ  "/" شارپ/NN "/"  شرکت/NN  کې/ADP  خپلې/PR.AJ  ونډې/NN  پلورلې/VB  دي/VB ./.
+سامسنګ/NN.SG.M  ویلي/VB ،/,  په/ADP "اې ایس ایم ایل" شرکت/NN  کې/ADP  یې/PR  خپله/PR  نیمايي/NN.DT    ونډه/NN پلورلې/VB ،/, چې/CC په/ADP سلو/CD  کې/ADP  ۳٫۰۰ وه/VB ./.
+په/ADP  "سیګایټ" کې/ADP  د/ADP سامسنګ/NN.SG.M  ۴٫۲ سلنه/CD  ونډه/NN ، په/ADP "رامبوس/NN " کې/ADP  یې/PR  ۴٫۵ سلنه/CD  او/CC "شارپ/NN " شرکت/NN  کې/ADP  یې ۰٫۷ ونډه/NN  پر/ADP  خپل/PR  ځای/NN  پاتې ده/VB ./.

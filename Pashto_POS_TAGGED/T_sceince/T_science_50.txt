@@ -1,0 +1,19 @@
+﻿/*http://www.pashtovoa.com/a/reducing-cell-phone-charges-/3628838.html
+لیندۍ 19, 1395*/
+د/ADP  تلیفون/NN.SG.M د/ADP مصرف/NN  د/ADP کمولو/VB  ۶ طریقې/NN.PL
+ډیر/AD  وخت/NN  کله/ADP  چې/CC  خلک/NN  له/ADP  یوه/CD  هېواد/NN.SG.M  څخه/ADP  بل/  ته/ADP سفر/NN  کوي/VB  د/ADP تلیفون/NN.SG.M مصرف/NN  یې/AD زیاتیږي/VB  ځکه/CC  د/ADP تیلفوني/AJ  خدمتونو/NN.PL.OBL  وړاندې/AD  کوونکې/ شرکتونه/NN.PL.DIR  ورباندې/ADP  خپل/PR  خدمات/NN.PL  په/ADP لوړ/AJ  قیمت/NN  پلوري/VB ./.  ډیر امریکایان/NN.PL چې/CC  د/ADP کرسمس/NN  او/CC نوي/AJ  عیسوي/NN  کال/VB  په/ADP رخصتیو/NN.PL.OBL  کې/ADP نورو/DT  هېوادونو/NN.PL.OBL  ته/ADP سفرونه/NN.PL  کوي/VB  د/ADP تلیفون/NN.SG.M لګښت/NN  یې/PR  بیخي/AD  زیاتیږي/VB ./.  په/ADP دغه/PR  رپوټ/NN.SG  کې/ADP د/ADP هغو/PR  شپږ/CD  سپارښتنو/NN.PL.OBL  یادونه/ شوې/VB  چې/CC  د/ADP تلیفون/NN.SG.M د/ADP مصرف/NN  له/ADP  کمولو/VB  سره/ADP  مرسته/NN  کوي/VB :/:
+له/ADP  خارجي/AJ  تلیفوني/AJ  خدماتو/NN.PL.OBL  ګټه/NN  اخیستل/VB
+د/ADP  بهرنیو/NN.PL.OBL.AJ   هېوادونو/NN.PL.OBL  له/ADP  تلیفوني/AJ  خدماتو/NN.PL.OBL  ګټه اخیستل/VB  له/ADP  اقتصادي/AJ  پلوه/ ارزانه/NN.AJ    تمامیږي/VB ،/,  خو/CC  ډیر/AD  عملي/ ځکه/CC  نه دي/VB  چې/CC  د/ADP Verizon له/ADP  شرکت/NN  پرته/AD  نور/DT  امریکايي/AJ  شرکتونه/NN.PL.DIR  د/ADP تلیفون/NN.SG.M د/ADP پیسو/NN.PL.OBL  د/ADP ورکولو/VB  د/ADP دوه کلن/AJ  قرارد/NN.SG.M  له/ADP  ختمېدو/VB  مخکې/AD  خپلو/PR  مشتریانو/NN.PL.OBL  ته/ADP د/ADP تلیفون/NN.SG.M د/ADP unlock کولو/VB  اجازه/NN  نه ورکوي/VB  او/CC خارجي/AJ   سیم/NN  کارت/NN  په/ADP کې/ADP نشی کارولئ/VB .
+په/ADP  بهر/NN  کې/ADP له/ADP  تلیفون/NN.SG.M څخه/ADP   د/ADP استفادې/NN  د/ADP پلان/NN  ترتیبول/VB
+د/ADP  تلیفوني/AJ  خدمتونو/NN.PL.OBL  له/ADP  وړاندې/ADP  کوونکي شرکت/NN  سره/ADP  مو/PR  خبرې/NN.PL  وکړئ/VB  څو/IA  د/ADP تلیفون/NN.SG.M پلان/NN  مو/PR  نړیوال/AJ  کړي/VB  او/CC تاسو/PR  وکولی/VB  شی/VB  کوم/IA  هېواد/NN.SG.M  ته/ADP چې/CC  سفر/NN  کوئ/VB  هلته/AD  ورڅخه/ADP  استفاده/NN  وکولی شئ/VB ./.
+د/ADP  تلیفون/NN.SG.M ډیټا/NN  بندول/VB  یا/CC  offکول/VB
+په/ADP  آیفون/NN.SG.M  کې/ADP د/ADP "Cellular Settings" یا/CC  د/ADP موبایل/NN.SG.M  د/ADP تنظیماتو/NN.PL.OBL  برخه/NN  او/CC د/ADP اندروید/NN.SG.M  د/ADP عامل/NN  سیستم/NN  په/ADP کارونکو/NN.PL  تلیفونونو/NN.PL.OBL  کې/ADP د/ADP "Mobile Data" برخه/NN  بنده کړئ/VB ./.
+له/ADP  ډیټا/NN  څخه/ADP  د/ADP استفادې کمول/VB
+که/ADP  چیرې/AD  د/ADP Cellular برخه/NN  د/ADP لنډې/AD  مودې/NN  لپاره/ADP  هم/AD  خلاصه/NN  یا on وي/VB  تلیفون/NN.SG.M ته/ADP مو/PR  پخوا/ درلېږل شوي/VB  پیغامونه/NN.PL  درځي/VB  او/CC ډیټا/NN  مو/PR  مصرفوي/VB  ./.
+نو/CC  ښه/AJ  به/PT  داوي/VB  چې/CC  د/ADP Cellular ترڅنګ/ نور/DT  اپلیکیشنونه/NN.PL.DIR  هم/AD  بندکړئ/VB ./.
+بهرته/ له/ADP  تګ/NN  مخکې/AD  د/ADP ډیرو/ شیانو/NN.PL.OBL  ډونلوډکول/VB
+بهر/AD  ته/ADP له/ADP  سفر/NN  کولو/VB  مخکې/AD  په/ADP خپل/PR  تلیفون/NN.SG.M کې/ADP د/ADP موزیمونو/NN.PL.OBL  او/CC نورو/DT  هغو/PR  ځایونو/NN.PL.OBL  په/ADP هکله/ADP  چې/CC  غواړئ/VB  لیدنه/NN  ورڅخه/ADP  وکړئ/VB ، معلوماتي/AJ  اپلیکیشنونه/NN.PL  او/CC د/ADP ګوګل/NN  نقشه/NN.F  ډونلوډکړئ/VB .
+د/ADP  ډیټا/NN.SG  د/ADP مصرف/NN  چک کول/VB
+د/ADP  ډیټا/NN  مصرف/NN  مو/PR  په/ADP منظمه/AJ  توګه/AD  چک/NN  کوئ/VB  چې/CC  پوه شئ/VB  څومره/IA  مصرف/VB  شوې/VB ./.
+په/ADP  آیفون/NN  تلیفونونو/NN.PL.OBL  کې/ADP د/ADP ډیتا/NN  د/ADP مصرف/NN  د/ADP معلوملو/VB  لپاره/ADP  د/ADP  "Cellular"- "Current Period Roaming" برخه/NN  چک کړئ/VB  او/CC له/ADP  هغه/PR  وروسته/AD  د" Reset Statistics" برخه/NN  کېکاږئ/VB .
+او/CC  د/ADP اندروید/NN  په/ADP عامل سیستم لرونکو/AJ  تلیفونونو/NN.PL.OBL  کې/ADP د/ADP " Data usage" برخه/NN   چک کړئ/VB .

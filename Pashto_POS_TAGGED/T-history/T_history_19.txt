@@ -1,0 +1,13 @@
+﻿د/ADP  اميرمحمد/NN  اعظم/NN خان/AJ  سلطنت/NN
+د/ADP  امير/NN  محمد/NN  افضل/NN  خان/AJ تر/ADP مرگ/NN  وروسته/AD  سردار/ NN
+محمد/NN  اعظم/NN  خان/AJ د/ADP عبدالرحمن/NN خان/AJ په/ADP موافقه/NN  سلطنت/NN
+ته/ADP ورسيد/VB . امير/NN محمد/NN اعظم/NN خان/AJ يو/CD نوښتگر/AJ  سړی/NN و/VB ،
+غوښتل/VB  يې/PR  چې/CC  يو/CD  شمير/NN  اصلاحات/NN په/ADP افغانستان/NN.SG.M  کې/ADP
+را/PR منځته کړی/VB، خو/CC  وخت/NN  ورته/PR پیدا/V  نشو/VB  . امیر/NN شیر/NN علی/NN خان/AJ له/ADP  هراته/NN  کندهار/NN  ته/ADP  ورسېد/VB
+او/CC  د/ADPکندهار/NN خلګ/NN چې/CC د/ADPامیر/NN.SG.M محمد/NN.SG.M خان/AJ د/ADP زامنو/NN.PL.OBL د/ADP ظلم/NN له/ADP  لاسه/ADP ډیر/AD تنګ/AJ شوي/VB  وو/VB  ، نو/CC  د/ADPامیر/NN شیر/NN علي/NN خان
+هر کلی/VB یې/PR وکړ/VB.په/ADP دې/DT وخت/NN کې/ADP امیر/NN عبدالرحمن/NN خان/AJ د/ADP شمالي/AJ ولایتونو/NN.PL.OBL په/ADPایلولو/VB بوخت/AJ و/VB.
+امیر/NN شیر/NN علي/NN خان/AJ د/ADPکابل/NN د/ADP نیولو/VB تکل/NN وکړ/VB، مخکی/AD له/ADP  دې/DT چې/CC کابل/NN ته/PR ورسیږی/VB ، د/ADP کابل/NN خلکو/NN.PL.OBL د/ADPامیر/NN محمد/NN اعظم/NN خان/AJ
+په/ADP وړاندې/ADP احتجاج/NN او/CC له/ADP امیر/NN شیرعلي/NN خان/AJ څخه/ADP یې/PR ملاتړ/NN  اعلان/NN وکړ/VB.
+اميرمحمد/NN اعظم/NN خان/AJ  وليدل/VB
+چې/CC اوضاع/NN د/ADPاميرشير/NN علي/NN خان/AJ په/ADP گټه/NN.F ده/VB
+،روحيه/NN يې/PR کمزورې/AJ شوه/VB  او/CCاميرعبدالرحمن/NN خان/AJ ته/ADP چې/CC په/ADP تخار/NN کې/ADP و/VB، ورغی/VB.

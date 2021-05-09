@@ -1,0 +1,13 @@
+﻿د/ADP  اميرمحمديعقوب/NN.SG.M خان/AJ  سلطنت/NN.SG.M
+شهزاده/NN.SG.M محمديعقوب/NN.SG.M  خان/AJ  د/ADP خپل/NN  پلار/NN  د/ADP پاچاهۍ/  پر/ADP  وخت/NN  د/ADP نيک/AJ  نوم/NN.SG.M  خاوند/NN.SG.M او/CC
+د/ADP  پلار/NN.SG.M  د/ADP دويمې/OD  پاچاهۍ/  پر/  وخت/NN  د/ADP هرات/NN.SG.M او/CC د/ADP کندهار/NN.SG.M   په/ADP خلاصون/VB   کې/ADP  مهم/AJ  رول/NN  درلود/VB ،.
+د/ADP  افغانستان/NN.SG.M خلک/NN  د/ADP هغه/PR  په/ADP
+زنداني کيدو/VB  او/CC د/ADP وليعهد/NN.SG.M   په/ADP توگه/NN   د/ADP شهزاده/NN.SG.M  عبدالله/NN.SG.M  پر/  ټاکل کيدو/VB  خواشيني/AJ  وو/VB ،
+ځکه/CC  چې/CC  د/ADP شهزاده/NN
+يعقوب/NN.SG.M  خان/AJ  يې/PR   خوښاوه/VB ./.  سردار/NN  محمديعقوب/NN.M  خان/NN  د/ADP زندان/NN.SG  تر/ADP
+خلاصیدو/VB  وروسته/ADP   په/ADP روحي/AJ  او/CC عصبی/AJ  ناروغۍ/NN.F  اخته شوی/VB  و.
+انګليسانو/NN.PL.OBL  د/ADP افغانستان/NN.SG.M  د/ADP نيولو/VB  او/CC اشغال/NN  لپاره/ADP  عملا/ًAD  لاس/NN   په/ADP کار/NN  شوی/VB  وو/VB
+او/CC  خلکو/NN  يوه/CD  پاچا/NN.SG  يا/CC  مشر/NN  ته/ADP
+اړتيادرلوده/VB ، تر/ADP څو/IA پر/  هغه/PR  راټول/VB  او/CC د/ADP انگليس/NN  د/ADP يرغلونو/NN.PL.OBL  مخه/NN  ونيسي/VB
+ځکه/CC  نو/CC  د/ADP امیر/NN   د/ADP محمدیعقوب/NN.M  خان/AJ  د/ADP اتلس/CD  سوه/CD  نهCD اویا/CD  م کال/NN
+د/ADP  مارچ/NN   په/ADP مياشت/NN  کې/ADP  سلطنت/NN  ته/ADP ورسيد/VB .

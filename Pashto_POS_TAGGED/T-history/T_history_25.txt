@@ -1,0 +1,21 @@
+﻿د/ADP  غازى/AJ  شاه/NN  امان الله/NN.SG.M خان/NN.SG.M  اروپايي/AJ  سفر/NN.SG.M
+غازي/AJ  امان الله/NN.SG.M   خان/AJ  په/ADP ( ١٣٠٥ لمريز/AJ ) کال/NN  د/ADP وزيرانو/NN.PL.OBL  د/ADP شورا/NN  په/ADP عالي/AJ.NN  مجلس/NN  کې/ADP د/ADP افغانستان/NN.SG.M   د/ADP پرمختگ/NN.VB
+لپاره/ADP  د/ADP نويو/AJ.OBL.NN  ألاتو/NN.PL  او/CC وسايلو/NN.PL  کمى/ تر/ADP  بحث/NN  لاندې/AD  ونيوه/VB  او/CC ويې ويل/VB  چې/CC  بايد/PT  د/ADP ښوونې/VB.NN  او/CC روزنې/VB.NN
+
+ ، مطبوعاتو/NN، رغونې/VB ، د/ADP نويو/AJ           مخابرات/NN.PL
+صنعت/NN  او/CC د/ADP افغانستان/NN  د/ADP کرنې/VB  پرمختگ/VB.NN په/ADP برخه/NN  کې/ADP  له/ADP  اروپايي/AJ
+هېوادونو/NN.PL.OBL څخه/ADP ډ ير/AD  لوی/AJ  سامان/NN.PL  ألات/NN.PL  خريداري/VB  او/CC تهيه/VB  کړای شي/VB. او/CC ددې/AD   کار/NN  لپاره/ADP بايد/PT مسلکي/AJ  او/CC کارپوه/AJ
+خلک/NN  انتخاب/VB  او/CC په/ADP مناسب/NN  وخت/NN  کې/ADP  اروپا/NN  ته/ADP  وليږ ل/VB  شي/VB . د/ADP وزيرانو/NN.PL.OBL  مجلس/NN دا/DT   تصويب/NN   کړه/VB  چې/CC ددغو/DT.PR
+ټولو/NN.QT علمي/AJ  او/CC فني/AJ  موخو/NN.PL.OBL   د/ADP لاس/NN  ته/ADP  راوړلو/VB  لپاره/AD دې/PT  پخپله/PR  غازي/AJ  پاچا/NN  ددغه/PR  هيئت/NN  مشري/NN  پر/ غاړه/NN  واخلي/VB
+،
+ځکه/CC  چې/CC هغه/PR  پخپله/PR  د/ADP پوهنې/NN  او/CC روښانفکرۍ/NN.AJ   ډ ير/AD  لوى/AJ  غوښتونکى و/VB  او/CC هم/AD  څرنگه/AD  چې/CC له/ADP
+له/ADP  دیارلس/CD  سوه/CD  یو/CD  لمریز/AJ  کال/NN  څخه/ADP وروسته/AD    ځینو/PR  رسمی/AJ  بلنیکونه/NN.PL  راغلی/VB  وو/VB ، چې/CC پاچا/NN.SG.M   دې/PR  د/ADP
+هغوی/PR  له/ADP هیوادونو/NN.PL.OBL  څخه/ADP لیدنه/VB  وکړی/VB  ، همدا/DT  و/VB ، چې/CC امان/NN.SG.M  الله/NN.SG.M  خان/AJ  د/ADP ملکې/NN.SJ  ثریا/NN.SG.F  او/CC  د/ADP دولت/NN.SG.M  د/ADP عالی/AJ  رتبه/NN
+غړیو/NN.PL.OBL  سره/ADP  اروپا/NN.SG.F  ته/ADP  روان شو/VB .
+په/ADP  کابل/NN  کې/ADP د/ADP خدای پّه امانۍ/VB  وروسته/AD  یې/PR  د/ADP کندهار/NN.SG.M  لوري/NN  ته/ADP  حرکت/NN  وکړ/VB .
+
+
+
+
+
+

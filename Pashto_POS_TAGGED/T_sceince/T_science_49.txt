@@ -1,0 +1,4 @@
+﻿/*http://www.bbc.com/pashto/multimedia/2015/12/151224_gn_herat_programming	24 دسمبر 2015 - 03 مرغومی 1394*/
+هرات/NN.SG.M  کې/ADP   ځوانان/NN.PL  د/ADP  کمپیوټري/AJ  پروګرامونو/NN.PL.OBL  جوړول/VB  زده کوي/VB
+هرات/NN.SG.M  کې/ADP  یوه/CD  ډله/NN  ځوانان/NN.PL  د/ADP  کمپیوټري/AJ  پروګرامونو/NN.PL.OBL  جوړولو/VB  چل/NN  زده کوي/VB ./.  شمېر/NN  یې/PR  په/ADP  ډېرېدودی/VB ./.  فرشتې/NN.SG.F  فروغ/NN  هرات/NN.SG.M  کې/ADP   د/ADP  کمپیوټر- ساینس/NN  لوړې/AJ  زده کړې وکړې/VB ،/,  امریکا/NN.SG.M  ته /APD  لاړه/VB  خو/CC  خپله/PR  هرات/NN.SG.M  کې/ADP  یې/PR  نجونو/NN.PL.OBL  ته/ADP  د/ADP  کوډ/NN  جوړولو/VB  مرکز/NN   جوړکړ/VB ./.
+افغانستان/NN.SG.M  کې/ADP  اوس/AD  د/ADP  کمپیوټري/AJ  لوبو/AJ ،/,  سافټ ویرونو/NN.PL.OBL ،/,  وېبپاڼو/NN.PL.OBL  او/CC  موبایل/NN.SG.M ،/,  اپونو/NN.PL.OBL ،/,  کارول/VB  ډېر/AD  دود/NN  شوی/VB

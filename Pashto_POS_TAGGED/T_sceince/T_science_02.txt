@@ -1,0 +1,7 @@
+﻿/*http://www.pashtovoa.com/a/norway-school-robat-08-29-2016/3484977.html
+وږی 08, 1395*/
+د/ADP  ناروغه/AJ  ماشوم/NN.SG.M  پرځای/AD  ښونځي/NN.SG.M  ته/ADP  تلونکی/NN   روبات/NN.SG.M
+د/ADP  ناروی/NN.SG   یو/CD  شرکت/NN  غواړي/VB  د/ADP هغو/PR  ماشومانو/NN.PL.OBL  یوازیتوب/AD پایته ورسوي/VB  چې/CC  په/ADP اوږدمهاله/AD  ناروغیو/NN.PL  اخته/NN  دي/VB . دغهPR  ماشومان/NN.PL  د/ADP یو/CD  ربات/NN  په/ADP درلودلو/VB   کولای/VB  شي/VB  په/ADP غیر مستقیمه/AJ  توګه/NN  په/ADP ټولګي/NN  کې/ADP ګډون/NN  وکړي/VB .
+په/ADP  سختو/AJ ناروغیو/NN.PL اخته/NN  ماشومانو/NN.PL.OBL  ته/ADP  د/ADP ناروغۍ/NN  تر/ADP  څنګ/AD  منزوي/NN   کیدل/VB  او/CC له/ADP  ملګرو/NN.PL.OBL  او/CC همصنفیانو/NN.PL.OBL لریوالی/AJ د/ADP هغو/PR  پر/ADP جسمي/NN او/CC رواني/NN  روغتیا/NN  بد/AJ   اغیز/NN  لرلی/VB  شي/VB .دا/PR  روبات/NN
+ نومیږي/VB  او/CC د/ADP اوسلو/NN   په/ADP ښار/NN  کې/ADP میشت/، "نو آیسولشن/NN " په/ADP نامه/NN  یو/CD شرکت/NN  جوړکړی/VB  او/CC په/ADP کمرو/NN.PL ، مایکروفون/NN  او/CC لوډسپیکرونو/NN.PL  سمبال/AJ  دی/VB ، ډیر/AD  کلک/AJ  ماشین/NN  لري/VB .
+

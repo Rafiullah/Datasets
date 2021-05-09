@@ -1,0 +1,11 @@
+﻿/*
+http://www.bbc.com/pashto/multimedia/2015/06/150610_bm_efforts_by_scientists_to_find_new_clean_energy
+•	10 جون 2015 - 20 غبرګولی 1394
+*/
+د/ADP   ساینس/NN  پوهانو/NN.PL  له/ADP  خوا/ د/ADP  نوې/AJ  پاکې/AJ  انرژۍ/NN  موندنې/VB  هڅې/NN.PL
+ساینسپوهان/NN.PL  او/CC  اقتصاد/NN  پوهان/NN  وايي/VB  پاکه/AJ  انرژي/NN  موندل/VB  تر/ADP  ټولو/AD  ګرانه/AJ.NN   ننګونه/ ده/VB  چې/CC  ساینس/NN  ور/PR سره/ADP  مخامخ/NN  دی/PR .
+دوی/PR  د/ADP  ننني/AD  وخت/NN  لپاره/ADP  اپولو/NN.SG ته/ADP ورته/PR  د/ADP  یوه/CD  ماموریت/NN  غږ/NN.SG   کوي/VB .
+د/ADP ۱۹۶۰ - ۷۰ مو/PR  کلونو/NN.PL.OBL  د/ADP  اپولوNN.SG.M پروګرام/NN  د/ADP  امریکا/NN.SG تر/ADP  ټولو/AD  ځیرک/AJ  فکرونه/NN.PL.DIR  بوخت/NN  کړل/VB  چې/CC  فضا/NN  ته/ADP  انسان/NN.SG  ولېږي/VB .
+اوس/AD  سایسنپوهان/NN.PL  وايي/PR  هماغسې/PR  یوه/CD  هڅه/NN  پکار ده/VB  چې/CC  په/ADP  یوه/CD  لسیزه/CD  کې/ADP  دننه/AD  نوې/AJ  پاکه/AJ  انرژي/NN  تر/ADP  سکرو/NN.PL   ارزانه/AJ  کړي/VB
+
+/*

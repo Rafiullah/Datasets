@@ -1,0 +1,15 @@
+﻿د/شیح  بحران/NN  پاى/NN  او/CC د/ADP قدرت/NN  ټينگښت/
+د/ADP  کلکاني/AJ  حبيب الله/NN.SG.M   ٩ مياشتنۍ/AD   واکمنۍ/AJ.NN   کابل/NN.SG.M  له/ADP  هر/QT  پلوه/ خراب/AJ  او/CC زيانمن/AJ  کړ/VB . هيواد/NN  ٩ مياشتي/d  په/ADP
+اړودوړ کې/ADP    تيرې کړې/VB  نوځکه/CC  د/ADP افغانستان/NN  خلک/NN  له/ADP  دې/PR  نظام/NN  څخه/ADP  ناراضه وو/VB ، د/ADP يوه/CD  مثبت/AJ  بدلون/VB
+لپاره/ADP  تياروو/VB . هماغه/PR  و/VB  چې/CC   محمدنادرخان/NN.SG.M  د/ADP جنوبي/AJ  جبهې/NN   يو/CD  له/ADP  فاتحينو/NN.PL  او/CC د/ADP اماني/AJ  دورې/NN  سپاه
+سالار/NN  د/ADP خلکو/NN  په/ADP مرسته/NN او/CC همکارۍ/NN  د/ADP اکتوبر/NN  په/ADP
+پنځمه/OD.DIR  کابل/NN  ته/AD راننوت/VB
+او/CC  د/ADP سلام/NN.SG.M   خانې/NN   ماڼۍ/NN.F  ته/ADP  ولاړ/VB . هلته/AD يو/CD  شمېر/NN  د/ADP کابل/NN.SG.M  معززين/NN.PL ، مشران/NN.SG.M  او/CC قبايلو/NN  استازي/NN  موجود/VB
+وو/VB ، محمدنادرخان/NN.SG.M  په/ADP  يوه/CD.DIR  وينا/NN  کې/ADP   هغوى/PR  ته/ADP  داسې/DT    وويل/VB  :/:  د/ADP خدای/NN.SG  پاک/AJ  په/ADP فضل/NN  زه/PR  خپل/PR  آرمان/NN  ته/ADP  ورسېدم/VB
+زما/PR  هیله/NN.F  د/ADP هېواد/NN  خلاصون/VB   او/CC دا/PR  دى/ نن/AD  ورځ/NN  زما/PR  هيله/NN  تر/ADP سره/ADP  شوه/VB ، زه/PR  د/ADP قدرت/NN  هيله مند/AJ   نه یم/VB  یوه/CD  جرګه/NN  جوړوم/VB  ، تر/ADP  څو/IA  هغوی/PR  خپل/PR  مشر/NN  وټاکي/VB  په/ADP دې/PR  وخت/NN
+ کې/ADP  حاضرینو/NN.PL.OBL   په/ADP یوه/CD  غږ/NN  وویل/VB  لویې/AJ  جرګې/NN  ته/ADP  اړتیا/NN  نشته/  تاسې/PR  زموږ/PR  پاچا/NN  یاست/VB .
+
+
+
+
+

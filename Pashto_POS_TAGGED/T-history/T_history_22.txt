@@ -1,0 +1,11 @@
+﻿د امير حبيب الله خان سلطنت
+سردار/NN حبيب الله/NN خان/NN د/ADPامير/NN عبدالرحمن/NN خان/NN زوى/NN و/VB.
+کله چې امیر عبدالرحمان خان د/ADP امیرشیرعلي/NN.SG.M  خان/AJ   له/ADP  خوا/ د/ADP کابل/NN
+او/CC غزني/NN.SG ترمنځ/AD په/ADP شش ګاو/NN  (شپږ قلاع/NN) کې/ADP ماتې وخوړه/VB، په/ADP بخارا/NN کې/ADP یې/PR پناه/NN واخیسته/VB او/CC سردار/NN.SG حبیب الله/NN خان/NN.AJ په   ۱۸۷۲/CD ز کال/NN  په/ADP سمرقند/NN  کې/ADP وزیږید/VB . هغه/PR  په ۲۸/CD یا ۲۹/CD کلنۍ/NN کې/ADP
+په/ /CD۱۹۰۱ ز کال/NN د/ADP پلار/NN  له/ADP  مړینې/VB  وروسته/AD  واک/NN  ته/ADP  ورسید/VB .
+/امیر/NN  حبیب الله/NN  خان/NN.AJ  په/ADP  طبیعي/AJ  توګه/NN  ارام/AJ، هوښیار/AJ، نوښتګر/AJ او/CCد/ADP پرمختګ/NN پلوی وه/VB . که/CC څه/IA هم/AD
+له/ADP  عیش/NN  عشرت/NN او/CC له/ADP  مجلل/AJ  دربار/NN  سره/ADP یې/PR مینه/NN درلوده/VB  .
+امیر/NN حبیب الله/NN خان/NN.AJ د/ADP واکمنۍ/NN پر وخت/NN  په/ADP  څو/IA څیرو/NN.PL  کې/ADP څرګند/AJ  شو/VB . په/ADP  لومړیو/AD کې/ADP یې/PR په/ADP  خپله/PR وینا/NN  کې/ADP خلکو/NN.PL.OBL  ته/ADP وویل/VB څرګند/AJ  شو/VB. په/ADP لومړیو/AD  کې/ADP یې/PR
+په خپله/PR وینا/NN کې/ADP خلکو/NN.PL.OBL ته/ADP وویل/VB: افغانستان/NN.SG اسلامي/AJ ټولنه/NN ده/VB او/CC اسلامي/AJ  ارزښتونه/NN.PL.DIR دې/DT په/ADP  کې/ADP رعایت//? شي/VB. لکه/ADP  څرنګه/AD چې/CC یې/PR د/ADP کابل/NN د/ADP خرابات/NN په/ADP سیمه/NN کې/ADP د/ADP رقاصو/NN په/ADP نڅا/VB  بندیز/VB  ولګاوه/VB.
+او/CC  دغه/DT  عمل/NN  یې/PR  غیرشرعي/AJ وباله/VB  او/CC  د/ADP مجرمینو/NN.PL په/ADP جزايي/AJ  قانون/NN  کې/ADP یې/PR  هم/ADP بدلون/NN  راوست/VB . د/ADP بیلګې//NN په/ADP توګه/NN  د/ADP جرم/NN د/ADP کولو/VB  په/ADP صورت/NN کې/ADP د/ADP بدن/NN د/ADP غړیو/NN.PL.OBL غوځول/VB  منع/  شول/VB او/CC په/ADP بدل/AD  کې/ADP  ورته/PR مختلف/AJ بندیتوبونه/ وټاکل/VB  شول/VB ، خو/CC  د/ADP هغوی/PR.PL د/ADP ازادۍ/NN  په/ADP  اړه/ADP.AD  یې/PR عمل/NN ونکړ/VB .
+ړندول/VB ، د/ADP غلامانو/NN.PL.OBL او/CC وینځو/NN.PL.OBL پلورل/VB  منع/   شو/VB . له/ADP څلورو/CD څخه/ADP  ډیرې/AD ښځې/NN.SG.F په/ADP  نکاح/NN کول/VB  یې/PR غیرشرعي/AJ اعلام کړل/VB .

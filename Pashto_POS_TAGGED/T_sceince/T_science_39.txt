@@ -1,0 +1,14 @@
+﻿/*http://www.bbc.com/pashto/world/2016/09/160929_ns_google_science_fair
+29 سپتمبر 2016 */
+کلنې/AJ  پېغلې/NN.SG  د/ADP ګوګل/NN.SG.M  جایزه/NN.F   وګټله/VB ۱۶
+د/ADP  سویلي/AJ  افریقا/NN.SG  یوې/CD  ۱۶ کلنې/AJ  نجلۍ/NN.SG.F   ته/ADP  له/ADP دې/PR  کبله د/ADP ګوګل/NN.SG.M  ساینسي/AJ  مېلې/AJ  جایزه/NN  ورکړل/VB  شوې/VB ، چې/CC د/ADP مالټې/NN.PL   له/ADP  پوټکي/NN.PL  یې/PR  په/ADP  ځمکه/NN  کې/ADP د/ADP او/CC بو/CD  جذب/NN  لپاره/ADP  یو/CD  مرکب/NN  جوړکړی/VB  دی/VB .
+د/ADP  کیارا نارګهین/NN.SG  ( له/ADP  وچکالۍ/AJ  سره/ADP  د/ADP میوو/NN.PL  په/ADP  مرسته/NN  مبارزه/NN  ) نومي/NN  طرح/NN  د/ADP نړۍ/NN  ګڼو/AD  زده کونکو/NN.PL  له/ADP  لوري  لېږل/VB  شویو/VB  طرحو/NN.PL  کې/ADP د/ADP ۵۰ زره/CD  ډالرو/NN.PL  جایزې/NN.PL  لپاره/ADP  غوره/AJ  وبلل شو/VB ه.
+نومړې/CD  دغه/PR  طرح/NN  خپل/PR  هېواد/NN.SG  کې/ADP وروستۍ/AD  وچکالۍ/AJ  ته/ADP  د/ADP حل/NN په/ADP  توګه/NN  مطرح کړې/VB
+د/ADP  دغې/PR  وچکالۍ/AJ  له/ADP  کبله/ چې/CC د/ADP ۱۹۸۲ کال/NN.SG  هغې/PR  پر تله سخته/AJ  ده/VB ، سویلي افریقا/NN.SG  کې/ADP کروندې/NN.PL  شاړې/AJ  شوې/VB  او/CC څاروي/NN.PL  مړه/NN.PL   شوي/VB  دي/VB .
+د/ADP  جوهانسبرګ/NN.SG  ښار/NN.SG  ایس ټي مارټن/NN.SG  ښوونځي/NN.PL  زده کونکې/NN.SG  اغلې/NN.SG  نارګهین/NN.SG  وايي/VB ، ۴۵ ورځو/NN.PL  کې/ADP یې/PR  له/ADP  دریو/CD  تجربو/NN.PL  وروسته/AD  ( د/ADP مالټي/NN  پوټکي/NN.PL  مرکب/NN  ) نومي/NN  دغه/PR  مرکب/NN  تر/ADP  لاسه/NN  کړ/VB ، چې/CC د/ADP غیر/AD  تجزیه/NN  کېدونکو/VB  او/CC غیرجاذب مادو/NN.PL  د/ADP بدیل/NN  په/ADP  توګه/NN  کاريدای شي/VB .
+هغه/PR  وايي/VB  دغه/PR  مرکب/NN  یې/PR  د/ADP جوس/NN.SG  تولیدونکو/NN.PL.OBL   کارخونو/NN.PL.OBL  له/ADP  پاتې شونو تولید/NN  کړی دی/VB . په/ADP  یاد/PR  مرکب/NN  کې/ADP د/ADP مالټې/NN.PL  پوټکي/NN.PL  کې/ADP له/ADP  شته مالیکولونو/NN.PL  او/CC هغه/PR  تیلو/NN.PL  کار/NN.SG  اخیستل شوی/VB ، چې/CC په/ADP  او کادو/NN نومي/NN  میوه/NN.SG   کې/ADP موندل/VB  کېږي/VB.
+اغلې/NN.AJ.F   نارګهین/NN.SG  په دې/ADP اړه/ په/ADP  انلاین/NN  پیغام/NN.SG  کې/ADP کاږي/VB :
+''دغه/PR  مرکب/NN  چاپیریال/NN  ته/ADP  هېڅ/QT  زیان/NN  نه/CC  رسوي/VB ، د/ADP اوبو/NN.PL  زېرمه/NN.SG  کولو/VB  ډېره/AD  وړتیا/NN  لري/VB  او/CC د/ADP هغو/PR  مرکباتو/NN.PL  پرتله/ یې/PR  بیه/NN  خورا/AD  ارزانه/AJ  ده/VB ، چې/CC په/ADP  بازارونو/NN.PL  کې/ADP پلورل کېږي/VB .''
+نوموړې/PR  وايي/VB ، هغه/PR  څه/IA  چې/CC په/ADP  دغه/PR  مرکب/NN  جوړولو/VB  کې/ADP ورنه کار/NN.SG   اخیستل شوی/VB ، برېښنا/NN.PL  او/CC وخت/NN.SG   دي/VB  او/CC له/ADP  دې/PR  پرته/AD  هېڅ/QT  ډول/NN  ځانګړي/AJ  الات/NN.PL  نه دي/AD  کارول شوي/VB .
+هغې/PR  کالیفورنیا/NN  کې/ADP د/ADP جایزې/NN  تر/ADP  لاسه/NN  کولو/VB  پرمهال/AD  وویل/VB ، هیله منده/AJ  ده/VB ، چې/CC دغه/PR  مرکب/NN  سره/ADP  به/PT  کرونده ګر/NN  د/ADP پېسو/NN.PL  سپمولو/VB  او/CC کروندو/NN.PL  په/ADP  ژغورولو/VB  کې/ADP ګټه/NN  واخلي/VB .
+دغه/PR  سیالي/NN  کې/ADP له/ADP  ۱۳ کلنۍ/AJ  تر/ADP  ۱۸ کلنۍ/AJ  پورې/AD  ماشومانو/NN.PL  ته/ADP  د/ADP برخې/NN.PL  اخیستو/VB  لپاره/ADP  اجازه/NN  ورکړل شوې/VB  وه/VB .

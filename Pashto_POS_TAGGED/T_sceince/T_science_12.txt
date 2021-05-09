@@ -1,0 +1,12 @@
+﻿/*
+http://www.pashtovoa.com/a/facebook-facial-analysis-softwar/3604474.html
+لړم 30, 1395
+*/
+فیسبوک/NN.SG.M    د/ADP  مخ/NN  پېژندنې/VB.AJ    تکنالوژي/NN  وړاندې/AD  کوي/VB
+د/ADP  فیسبوک/NN.SG.M   پلان/NN  لري/VB  چې/CC د/ADP کاروونکو/NN.PL  د/ADP څېرو/NN ، احساساتو/NN  او/CC رواني حالاتو/NN  د/ADP پېژندنې/VB  او/CC تشخیص/NN.SG.M  لپاره/ADP  یو/CD  نوی/AJ  سافټویر/NN.SG.M  کارونې/VB  ته/ADP وړاندې/ADP  کړي/VB ./.
+دا/DT  سافټویر/NN.SG.M  به/PT  د/ADP دې/PR  وړتیا/NN  ولري/VB  چې/CC د/ADP ناروغانو/NN.PL.OBL  احساسات/NN.PL  وڅاري/VB ،/,  په/ADP یوې/CD  عمومي/AJ  غونډې/NN  کې/ADP د/ADP ویناوالو/NN.PL  خبرو/NN.PL  ته/ADP د/ADP خلکو/NN  غبرګون/NN  واوروي/VB  او/CC همدغه/PR  راز/ کنګس/AJ  او/CC لارورکي/AJ.NN  موټروانان/NN.PL  هم/AD  ومومي/VB ./.
+اسوشیټډپرس/NN.SG.M وايي/VB  د/ADP فیسبوک/NN.SG.M "/" د/ADP  څېرې/NN  پېژندنې/VB "/"  دغه/PR  نوې/AJ  تکنالوژي/NN  د/ADP پتسبرګ/NN  د/ADP ملیون کارنیګي/NN.SG.M  له/ADP  پوهنتون/NN.SG.M   څخه/ADP  پېرېدلې/VB  ده/VB ،/,  خو/CC د/ADP قیمت/NN   په/ADP اړه/ADP  یې/PR څه/IA  نه/CC  دي/PR  ویلي/VB .
+دغه/PR  نوی/AJ  سافټویر/NN  به/PT  د/ADP فیسبوک/NN  کاروونکو/NN  ته/ADP دا/DT  زمینه/NN  هم/CC  برابره/VB  کړي چې/CC د/ADP خاصې/AJ  جلوې/NN  ( ویژول افیکټ/NN ) په/ADP مرسته/NN  په/ADP خپلو/PR  ویډیوګانو/NN.PL  او/CC تصویرونو/NN.PL  کې/ADP خپل/PR  احساسات/NN.PL  څرګند کړي/VB ، کټ مټ/AJ  د/ADP سنپچټ/NN  د/ADP سافټویر/NN.SG  په/ADP څېر/NN  چې/CC یو/CD  تصویر/NN  په/ADP کې/ADP په/ADP څو/IA  بڼو/NN  بدلیدلی/VB  شي/VB .
+دغه/PR  تکنالوژي/NN  به د/ADP فیسبوک/NN  کارکوونکو/NN.PL  ته/ADP یو/CD  بل/PR.DT  ځانګړی/AJ  فلټر/NN  هم/CC  برابر کړي/VB  چې/CC د/ADP سلفي/NN  پر/ADP  مهال/ یې/PR وکاروي/VB  تر/ADP  څو/IA  د/ADP سلفي/NN  اخیستونکو/VB  د/ADP حرکاتو/NN.PL  سره/ADP  سم/  دا/DT  فلټر/NN.SG  هم/AD  بدل شي/VB .
+د/ADP     فیسبوک/NN  د/ADP شرکت/NN  د/ADP شمیرو/NN  له/ADP  مخې/AD  په/ADP ټولې/AD   نړۍ/NN.F  کې/ADP دا/DT  مهال/  شاوخوا ۱.۸ میلیارد/CD.NN  خلک/NN  فیسبوک/NN  کاروي/VB .
+/*

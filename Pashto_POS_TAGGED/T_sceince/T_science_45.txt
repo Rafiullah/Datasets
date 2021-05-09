@@ -1,0 +1,12 @@
+﻿/*http://www.bbc.com/pashto/world/2014/12/141219_ns_sony_pictures_attack
+19 دسمبر/NN  2014 - 28 لیندۍ/NN  1393*/
+امریکا/NN.SG : پر/ADP  سوني/NN.SG  پکچرز/NN  انټرنېټي/AJ  برید/NN.SG  جدي/NN  ستونزه/NN.SG  ده/VB
+د/ADP  امریکا/NN.SG  متحد/AJ  ایالتونه/NN.PL  وايي/VB ، پر/ADP  فلمي/AJ  کمپنۍ/NN.SG  سوني پکچر/NN.SG  انټرنیټي/AJ  برید/NN.SG  د/ADP دغه/PR  هېواد/NN.SG  ملي/AJ  امنیت/NN  ته/ADP  یو/CD  ګواښ/NN.SG  دی/PR  .
+د/ADP  دغه/PR  برید/NN.SG له/ADP  کبله/NN  یاد/ شرکت/NN.SG  د/ADP مرکې/NN ، نومي/NN  فلم/NN.SG  نندارې/NN ته/ADP  وړاندې/AD  کول/VB  لغو کړل/VB .
+د/ADP  سپینې/AJ  ماڼۍ/NN.SG  ویاند/NN  وايي/VB ، دغه/PR  برید دده/PR  په/ADP  وینا/NN  ماهرو/AJ  لوبغاړو/NN.PL  تر/ADP  سره/ADP  کړی/VB ، خو/CC  هغه/PR  د/ADP شمالي/AJ  کوریا/NN.SG نوم/NN  یاد/ نه کړ/VB .
+د/ADP  دغه/PR  فلم/NN.SG  خیالي/ کېسه/NN.SG  کې/ADP د/ADP شمالي/AJ  کوریا/NN.SG  مشر/NN  کیم جونګ اوون/NN.SG  وژل/VB  کېږي/VB .
+سپينې/AJ  ماڼې/NN.SG  ويلي/VB  دي/PT  چې/CC  د/ADP سوني/NN.SG  کمپنۍ/NN.SG  پر/ADP انځورونو/NN.PL  سايبري/AJ  بريد د/ADP امريکا/NN.SG  د/ADP ملي/AJ  امنيت/NN  لپاره/ADP  يوه/CD  جدي/AJ  مساله/NN  ده/VB .
+سپينه/AJ  ماڼۍ/NN  وايي/VB  شواهد/NN.PL  ښيي/VB  چې/CC  بريد/NN.PL  د/ADP ورانۍ/VB  په/ADP  موخه/NN  د/ADP هغه/PR  چا/PR  له/ADP  لوري/ شوى/VB  چې/CC  ماهر/AJ  لوبغاړى/NN.PL  بلل شوى/VB  دى/VB .
+خو/CC  د/ADP شمالي کوريا/NN  نوم/NN  يې/PR  نه/CC  دى/PR   اخيستى/VB . تر/ADP  دې/DT  وړاندې/AD  سوني/NN.SG  اعلان/NN  وکړ/VB  چې/CC  د/ADP شمالي کوريا/NN  د/ADP مشر/NN  کيم جونګ اوون/NN.SG  د/ADP وژلو/VB  پر/ADP  دسېسې/NN.PL  جوړ شوى/VB  کميډي/AJ  فلم/NN.SG  به/PT  د/ADP نړۍ/NN  په/ADP  هېڅ/QT  ځاى/NN.SG  کې/ADP نندارې/NN.PL  ته/ADP  وړاندې/AD  نه/CC  شي/VB .
+هېکرانو/NN.PL  ګواښ/NN کړى/VB  چې/CC  که/CC  فلم/NN.SG  خپور شي/VB ، نو/CC  تاوتريخوالي/NN  ته/ADP  به/PT  لاس/NN.SG  واچوي/VB .
+سپېنې/AJ  ماڼې/NN.SG  پر/ADP  سوني/NN.SG  کمپنۍ/NN.SG  سايبري/AJ  بريد/NN.SG  د/ADP امريکا/NN.SG  ملي/AJ  امنيت/NN  لپاره/ADP  يوه/CD  جدي/AJ  مساله/NN  بللې/VB  ده/VB .

@@ -1,0 +1,17 @@
+﻿/*http://www.bbc.com/pashto/science-and-technology-38647018
+17 /jan/ 2017 */
+پر/ADP  سپوږمۍ/NN.F.SG  وروستی/AJ.AD   ګام/NN  اېښودونکی ستورمزلی/NN.SG.M  ومړ/VB
+د/ADP  جین/NN.SG.M  سرنان/NN.SG.M  په/ADP  نامه/NN  وروستی/AJ  امریکایی/AJ  ستورمزلی/NN.SG ، چې/CC سپوږمۍ/NN  ته/ADP ختلی و/VB ، د/ADP ۸۲ کلونو/NN  په/ADP  عمر/NN  ومړ/VB .
+د/ADP  امریکا/NN.SG.M  د/ADP فضايي/AJ  چارو/NN.PL  ادارې/NN  (ناسا/NN.SG ) ویلي/VB ، د/ADP دغه/PR  متقاعد/NN.SG.M  پخواني/AJ  ستورمزلي/NN  مړینې/VB  "غمجن/AJ " کړي دي/VB .
+سرنان/NN.SG.M  یو/CD  له/ADP  هغو/PR.PL  دریو/CD.OBL  کسانو/NN.PL  و/VB ، چې/CC دوه/CD  ځلې/DT  سپوږمۍ/NN.F  ته/ADP وخوت/VB  او/CC وروستی/AJ  هغه/PR  څوک/NN  و/VB  چې/CC په/ADP  ۱۹۷۲ کال/NN  پر/ADP  سپوږمۍ/NN.F  د/ADP خپلو/PR  پلونو/NN.PL  نخښې/NN.PL  پرېښودې/VB .
+سرنان/NN.SG.M  هغه/PR  مهال/NN  د/ADP اپولو/NN  ۱۷ د/ADP ماموریت/NN مشري/VB   کوله/VB .
+د/ADP  سرنان/NN.SG.M  کورنۍ/NN.F  په/ADP  یوه/CD  خبرپاڼه/NN.SG  کې/ADP  ویلي/VB ، نوموړي/PR    د/ADP دوشنبې/NN  په/ADP  ورځ/NN  د/ADP ځینو/DT.OBL  روغتیايي/AJ  ستونزو/NN.PL  له/ADP  کبله/NN  ساه/NN  ورکړه/VB . خو/CC  د/ADP مړینې/VB  د/ADP لامل/NN  په/ADP  اړه/ یې/PR  نور/DT  جزییات/NN.PL  نه دي/VB  ورکړي/VB ./.
+دوی/PR  ویلي/VB  "هغه/PR  د/ADP عمر/NN  تر/ADP  وروستۍ/AD  شېبې/NN  پورې/ADP  له/ADP  ستورمزلو/NN.PL.OBL  سره/ADP  همکارۍ/VB  ته/ADP دوام/NN  ورکړ/VB  او/CC ځوانان/NN.PL  یې/PR  هڅول/VB  چې/CC د/ADP نوموړي/PR  دا/PR  تاریخي/AJ  سفر/NN  پسې/ADP  وغځوي/VB "/" ./.
+نوموړي/PR  د/ADP اپولو/NN  ۱۷ له/ADP   ماموریت/NN  وړاندې/AD  دوه/CD  ځلې/QT  په/ADP  ۱۹۶۶ او/CC ۱۹۶۹ کلونو/NN.PL  کې/ADP  فضا/NN  ته/ADP تللی/VB  و/VB ./.
+سرنان/NN.SG.M  چې/CC د/ADP سمندري/AJ  ځواکونو/NN.PL.OBL  یو/CD  بریالی/AJ  ستورمزلی/NN.SG  و/VB ، په/ADP  ۱۹۶۳ کال/NN  د/ADP ناسا/NN  له/ADP  درېیمې/OD  ستورمزلې/NN.PL   ډلې/NN.PL  سره/ADP  یوځای شو/VB .
+جین/NN.SG.M  سرنان/NN.SG  په/ADP  ۱۹۷۶ کال/NN  متقاعد/NN  شو/VB  او/CC په/ADP  خصوصي/AJ  برخو/NN.PL  کې/ADP  د/ADP تلوېزیون/NN.SG.M  په/ADP  بېلابېلو/ پروګرامونو/NN.PL.OBL  کې/ADP  حاضر/NN  و/VB
+هغه/PR  د/ADP خپل/PR  ژوند/NN  په/ADP  اړه/  یو/CD  مستند/NN  فلم/NN.SG  هم/AD  جوړکړی/VB  چې/CC په/ADP  ۲۰۱۴ کال/NN  یې/PR  له/ADP  بي بي سي/NN.SG  سره/ADP  د/ADP خپل/PR  ځان/NN  په/ADP  اړه/  مرکه/NN.F  هم/AD  کړې ده/VB.
+سرنان/NN  د/ADP ۱۹۳۴ کال/NN  د/ADP مارچ/NN  میاشتې/NN  پر/ADP  ۱۴ مه/ د/ADP امریکا/NN.SG.M  شیکاګو/NN.SG  ایالت/NN  کې/ADP  دې/PR  نړۍ/NN.F  ته/ADP راغلی/VB  و/VB ./.  بشپړ/AJ  نوم/NN  یې/PR  یوجین اندرو سرنان/NN.SG.M  و/VB .
+
+
+

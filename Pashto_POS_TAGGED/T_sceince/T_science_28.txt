@@ -1,0 +1,14 @@
+﻿/*http://www.bbc.com/pashto/interactivity/2015/08/150826_gn_turning_cancer_back_into_healthy_tissue
+26 اګست 2015 - 04 وږی 1394
+*/
+سرطاني/AJ  حجرې/NN.PL  بېرته/AD  په/ADP روغو/AJ  حجرو/NN.PL  بدلول/VB
+په/ADP امریکا/NN.SG  کې/ADP یوه/CD  ډله/NN  ساینس/NN  پوهان/NN.PL  باور/NN  لري/VB  چې/CC  دوی/PR  ښايي/PT  داسې/DT  درملنه/NN  موندلې/VB  وي/  چې/CC  له/ADP  لارې/NN  یې/PR  سرطاني/AJ  حجرې/NN.PL  بېرته/AD  په/ADP روغو/AJ  حجرو/NN.PL  بدلې شي/VB .
+په/ADP لابراتوار/NN.SG  کې/ADP د/ADP دوی/PR  څېړنه/NN  ښيي/VB ، داسې/DT  بیولوژیکي/AJ  طریقه/NN  شته/VB  چې/CC  په/ADP مټ/NN  یې/PR  سرطاني/AJ  حجرې/NN.PL  بېرته/AD  نورمال/NN.AJ   حالت/NN  ته/ADP  اوښتی/VB  شي/VB .
+د/ADP دوی/PR  په/ADP وینا/NN ، دغه/PR  طریقه/NN  حجرو/NN.PL  ته/ADP  فرصت/NN  نه/CC  ورکوي/VB  چې/CC  له/ADP  کنټروله/NN   بهر/AD  شي/VB .
+هغوی/PR  ادعا/NN  لري/VB  چې/CC  د/ADPازموینې/NN  په/ADP لومړنیو/AJ  پایلو/NN.PL  کې/ADP د/ADP سرطان/NN.SG  ځینې/AD  یرغل/NN   کوونکي/VB  ډولونو/NN.PL.OBL   مخنيوی/VB  له/ADP  دې/PR   چارې/NN  په/ADP کارولو/VB  سره/ADP  امیدبښوونکې/AJ دي/PR .
+کله/AD  چې/CC  امریکایي/AJ  څېړونکو/NN.PL  د/ADPار ان اې/NN ، په/ADP نامه/NN  مالیکولونه/NN.PL.DIR  یوځای کړل/VB ، د/ADP طبیعي/AJ  سلولو/NN  بیولوژۍ/NN  د/ADP راپور/NN  له/ADP  مخې، د/ADP سرطان/NN  وده/VB  یې/PR  ودروله/VB .
+که/CC  څه/IA  هم/CC  لومړنۍ/AJ  ازموینې/NN  ښې/AJ  دي/PR  خو/CC تر/ADP  اوسه/AD  مالومه/ نه/CC  ده/PR  چې/CC  په/ADP سرطان/NN.SG  د/ADP اخته/NN  خلکو/NN.PL  درملنه/NN  کولای/VB  شي/VB  که/CC  نه/CC .
+خو/CC  بيا/AD  هم/CC  څېړونکي/NN.PL   هيله من/AJ.NN  دي/PR  چې/CC  دا/DT  نوې/AJ  چاره/NN  به د/ADP هر/QT  ډول/NN  سرطان/NN لپاره/ADP  ګټوره/AJ  وي/.
+له/ADP  دې/DT  مخکې/AD ساینس پوهان/NN.PL  د/ADP ضرر/NN  په/ADP دلیل/NN  نه/CC  پوهېدل/VB . دوی په/ADP دې/PR  باور/NN  وو/VB  چې/CC  پروتینونه/NN.PL.DIR   دوه اړخیزه/NN.AJ  دي/DT ، کله/AD  ښه/AJ  دي/PR  چې د/ADP حجرو/NN.PL  طبیعي/AJ  کارونې/VB  باعث/NN  ګرځي/VB  او/CC کله/AD  هم/CC  بد/AJ دي/PR  چې/CC  د/ADP تومور/NN  په/ADP وده/VB   کې/ADP مرسته/NN  کوي/VB .
+د/ADP بریتانیا/NN.SG  د/ADP سرطان/NN  څېړونو/NN.PL.OBL  له/ADP  مرکز/NN  څه/IA  هنري/AJ  سکوکرافت/NN  وایي/VB ، که/CC  څه/IA  دې/PR  څېړونو/NN.PL  د/ADP ژوند/NN  پېژندنې/VB  لرغونی/NN  راز/NN  بربنډ/ کړ/VB  خو/CC  بیا/AD  هم/CC  په/ADP قضاوت/NN  کې/ADP منډه/VB  نه/CC  ده/VB  په/ADP کار.
+نوموړی/PR  وایي/VB ، تر/ADP  هغې/PR   چې/CC پوه شو/VB  د/ADP حجرو/NN.PL.OBL  د/ADP ودې/AJ  په/ADP  اړه/ADP  موندنې/ د/ADP سرطان/NN.SG     له/ADP  درملنې/VB  سره/ADP  مرسته/NN  کوي/VB  او/CC که نه/PT  - ډېر/AD  وخت/NN  ته/ADP    اړتیا/NN  ده/VB ./.  خو/CC دا/IA  په/ADP بدن/NN  کې/ADP دننه/AD  د/ADP حجرو/NN.PL.OBL  ځانګړو/AJ  د/ADP چارو/NN.PL.OBL  پوهاوي/VB  ته/ADP  مهم/AJ  ګام/NN  دی/VB  چې/CC  کله/AD  وده/NN  کوي/VB  او/CC کله/AD  هم/AD  ودې/NN  دروي/VB ./.

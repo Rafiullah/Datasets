@@ -1,0 +1,15 @@
+﻿/*
+http://www.bbc.com/pashto/world/2016/09/160922_ns_yahoo_breach22_ سپتمبر 2016 - 01 تله 1395*/
+پر/ADP  یاهو/NN   انټرنیټي/AJ  برید/NN  ۵۰۰ میلیونه/CD  کاروونکي/NN.PL   اغېزمن/  کړي/VB
+انټرنیټي/AJ  کمپنۍ/NN.SG.F    یاهو/NN.SG   منلې/VB ، چې/CC  هېکرانو/NN.PL.OBL   د/ADP دغې/PR  پاڼې/NN  د/ADP ۵۰۰ میلیونه/CD  کاروونکو/NN.PL   معلومات/NN  غلا/NN  کړي/VB  دي/VB .
+د/ADP  انټرنیټي/AJ  برید/NN  دغه/PR  پېښه/NN  د/ADP ۲۰۱۴ کال/NN.SG  وروستیو/AD  کې/ADP رامنځته شوې/VB  او/CC غلا/NN  شویو/VB  معلوماتو/NN.PL  کې/ADP د/ADP پېژندګلوۍ/NN.AJ  اړوند/ پوښتنې/NN.PL  او/CC ځوابونه/NN.PL  او/CC شخصي/AJ  معلومات/NN  شامل/NN  وو/VB  .
+د/ADP  ویبپاڼې/NN  په/ADP  وینا/NN  په/ADP  غلا/NN  شویو/VB  معلوماتو/NN.PL  کې/ADP د/ADP بانکي/AJ  کارتونو/NN.PL  په/ADP  اړه/ معلومات/NN  شامل/NN  نه/CC  دي/PT  او/CC وايي/VB  داسې/DT  باور/NN  کېږي/VB ، چې/CC  له/ADP هېکرانو/NN.PL  سره/ADP  د/ADP کوم/DT.PR  هېواد/NN د/ADP  چارواکو/NN.PL  ملاتړ/NN موجود/VB  و/VB .
+یاهوNN  په/ADP  جولای/NN  میاشت/NN.SG   کې/ADP  پر/ADP  امریکايي/AJ  مخابریاتي/AJ شبکې/NN.PL  'ویرژن/NN ' د/ADP څلور/CD  اعشاریه/NN  اته/CD  میلیارد/CD  ډالرو/NN.PL  بدل/VB  کې/ADP وپلورل/VB  شو/VB . تر/ADP  اوسه/AD  معلومه/  نه/CC  ده/VB ، چې/CC  د/ADP هېک کولو/VB  دغه/PR  پېښه/NN  به/PT  د/ADP یاهو/NN.SG   پر/ADP  پلور یا/CC  ارزښت/NN  کوم/DT اغېز/NN  وکړي/VB  که/CC  نه/CC .
+اګست/NN  میاشت/NN.PL  کې/ADP پر/ADP  یاهو د/ADP یوه/CD  لوی/AJ  برید/NN  په/ADP  تړاو/ هغه/PR  وخت/NN  رپوټونه/NN.PL  خپاره/ شوو/VB ، چې/CC  د/ADP '' سولې/NN  '' په/ADP  نوم/NN  د/ADP هېکرانو/NN.PL  یوې/CD  ډلې/NN.PL  هڅه/NN  کولو/VB  پر/ADP  ۲۰۰ یاهو/NN.SG   اکاونټونو/NN.PL  معلومات/NN  وپلوري/VB .
+د/ADP  پنجشنبې/NN  په/ADP  ورځ/NN  یاهو/NN.SG   ومنله/VB ، چې/CC  دغه/PR  انټرنیټي/AJ  برید/NN  له/ADP  هغې/PR  کچې/AD  پراخ/AJ   و/VB ، چې/CC  مخکې/AD  یې/PR  په/ADP  اړه/  فکر/NN.SG  کېده/VB .
+کمپنۍ/NN  په/ADP  یوه/CD  اعلامیه/NN.SG  کې/ADP ویلي/VB :
+د/ADP  هغو/PR  کسانو/NN.PL  له/ADP  لوري/، چې/CC  تر/ADP  شا/NN  یې/PR  د/ADP ځینو/AD  حکومتونو/NN.PL  لاس/NN  دی/VB ، انلاین/NN.SG   لاسوهنه/VB  او/CC غلاوې/VB  مخ/NN  په/ADP  ډېرېدو/  دي/VB .
+د/ADP  خوندیتوب/ یوه/CD  شرکت/NN.SG   کواټا/NN  مرستیاله/NN.F  مشره/NN.F  نیکې پارکر/NN.F  وايي/VB :
+'' دلته/AD  مهمه/  خبره/NN  دا/DT  ده/، چې/CC  دغه/PR  برید/NN.SG  خورا پراخ/AD  دی/VB  .''
+د/ADP  نوموړې/PR  په/ADP  وینا/NN  دې/DT  سره/ADP  به د/ADP تنظیمونکو/NN  ، خلکو/NN.PL  او/CC رسنیو له/ADP  لوري له/ADP  یاهو/NN  نه/CC  ډېرې/AD  پوښتنې/NN.PL  ګروېږنې/  وشي/VB ، خو/CC  دوی/PR  باید/AD  ثابته/NN  کړي/VB ، چې/CC  د/ADP ستونزې/NN.PL  هواري/VB   ته/ADP  ژمن/NN  دي/VB  .
+پر یاهو د/ADP دغه/PR  برید/NN.SG  د/ADP پراخوالي/NN  کچې د/ADP دغه/PR  ډول/NN  وروستیو/AD  بریدونو/NN.PL  مای سپېس/NN  ( ۳۵۹ میلیونه/CD  ) لېنکډاین/NN  ( ۱۵۹ میلیونه/CC  ) او/CC اډوبي/NN  ( ۱۵۲ میلیونه/CD  ) کچې/AD  پر/ADP  بریدونو/NN.PL  سیوری/NN.SG  غوړولی/VB  دی/VB  .

@@ -1,0 +1,17 @@
+﻿د/ADP  ديموکراسۍ/NN.F  لسيزه/CD.NN
+د/ADP  ظاهرشاه/NN.SG.M  د/ADP سلطنت/NN  وروستي/AJ  لس/CD  کلونه/NN.PL  د/ADP ديموکراسۍ/NN  د/ADP لسيزې/CD  (اساسي/AJ  قانون/NN ) يا/CC  د/ADP مشروطې/AJ
+شاهي/AJ  په/ADP نامه/NN  يادوي/VB . په/ADP افغانستان/NN  کې/ADP د/ADP ديموکراسۍ/NN.F  دوره/NN  د/ADP سردارمحمدداودخان/NN.SG.M  تر/ADP استعفا/NN  يا/CC
+د/ADP  1343 لمريز/AJ  کال/NN  د/ADP اساسي/AJ  قانون/NN  تر/ADP انفاذ/ وروسته/AD  پيل/VB   او/CC تر/ADP  لسو/CD  کلونو/NN.PL.OBL  پورې/AD  يې/PR  دوام/NN  وکړ/VB . تر/ADP
+دې/DT  دمخه/AD  د/ADP شاه محمود/NN.SG  خان/AJ  د/ADP صدارت/NN.SG  په/ADP دوره/NN  کې/ADP هم/CC  هیواد/NN  ته/ADP  د/ADP یموکراسۍ/NN  زمینې/NN  رامنځ/VB  ته/ADP  شوې/VB  وې/VB .
+په/ADP  نوی/AJ  اساسي/AD  قانون/NN  کې/ADP پر يکړه/VB  وشوه/VB ،  چې/CCد/ADP شاهي/AJ  کورنۍ/NN   غړي/NN  په/ADP سياسي/AJ  گوندونو/NN.PL.OBL  کې/ADP برخه/NN
+نشي/VB  اخستی/VB  او/CC لاندې/AD  دندې/NN او/CC مسووليتونه/NN.PL  تر/ADP سره/ADP  کولاى/VB  نشي/VB :
+صدارت/NN  مقام/NN  په/ADP شورا/NN  کې/ADP غړيتوب/NN 3 په/ADP ستره/AJ محکمه/NN  کې/ADP غړيتوب/NN ،  چې/CC د/ADP همدې\
+ پريکړې/VB  له امله/ADP  د/ADP ديموکراسۍ/NN   په/ADP لسيزه/ کې/ADP پنځه/CD صدراعظمان/NN.PL   چې/CC د/ADP شاهي/AJ  کورنۍ/NN  غړي/NN  نه/CC  وو/VB .
+
+
+
+
+
+
+
+

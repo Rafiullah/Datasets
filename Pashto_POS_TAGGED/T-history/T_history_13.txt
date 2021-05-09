@@ -1,0 +1,12 @@
+﻿د/ADP  احمدشاه بابا/ NN.SG.M د/ADP دېوان/NN.SG.M  غورچاڼ/NN
+د/ADP  لوی/AJ  احمدشاه بابا/ NN.SG.M د/ADP دېوان/NN  غورچاڼ/NN  ) منتخبات/NN   ( په/ADP کابل/NN  کي/ADP  د/ADP پښتو/NN  څېړنو/VB  د/ADP نړيوال/AJ   مرکز/NN  لخوا/ADP  په/ADP۷۱۱۱ ش کال/NN  خپور
+سوی دئ/VB  ./.  د/ADP چاڼ/NN  کار/NN  يې/PR  فاضل استاد پوهاند عبدالشکوررشاد/ NN.SG.M سرته/ رسولی/VB  دئ/VB   او/CC سريزه/NN.F  يې/PR  ارواښاد م. ابراهيم عطايي/NN.SG.M
+کښلې/VB  ده/VB  ./.  د/ADP بابا/AJ  د/ADP کلام/NN  دغه/PR  چاڼ/NN  د/ADP هغي/PR  قلمي/AJ  نسخې/NN.PL   له/ADP  عکسي/AJ نقل/NN  څخه/ADP  برابر سوی دئ/VB  چي/CC  د/ADP تاشکند/NN.SG.M  د/ADP ختيځ/NN  پېژندني
+/VB
+انستيتوت/NN.SG.M  په/ADP کتابتون/NN.SG.M  کي/ADP  خوندي/AJ  ده/VB  ./.  دا/PR  نسخه/NN.SG.F  د/ADP محمد حامد دراني/NN.SG.M  په/ADP لاس/NN  خطاطي/VB  سوې ده/VB  ./.  نوموړی/PR  د/ADP لوی/AJ  احمدشاه بابا/NN.SG.M
+معاصر/AJ   او/CC ځان/NN يې/PR  )) غلام/NN  و/VB  فدوی بارګاه/NN  بادشاه/NN   ... (( بللی/VB  دئ/VB  ./.   نسخه/NN.F  که/CC  څه/IA  هم/CC  د/ADP ليکلو/VB  نېټه/NN.F  نلري/VB   خو/CC  ويل/VB  کېږي/VB  چي/CC  د/ADP لوی/AJ
+ټولواک/AJ.NN   په/ADP ژوند/NN  کي/ADP  کښل/VB  سوې ده/VB  ./.  ارواښاد عطايي/NN.SG.M  د/ADP غورچاڼ/NN  د/ADP سريزي/NN.F  په/ADP٢٦ مخ/NN  کي/ADP  ليکي/VB  )) د/ADP دې/PT  له/ADP  پاره/ADP  چي/CC  دا/PR  يوازنۍ/AJ
+قلمي/AJ  نسخه/NN  چي/CC  پخپله/PR  د/ADP احمدشاه/ NN.SG.M په/ADP ژوند/NN  کي/ADP  ليکل/VB  سوې ده/VB  په/ADP ښه/AJ  ډول/NN  چاپ سي/VB  ،/, نو/CC  د/ADP قلمي/AJ  نسخې/NN.DIR  عکسي/AJ  نقل/NN  د/ADP دولتي/AJ
+مطبعې/NN  له/ADP  خوا/ADP  د/ADP افسيټ/NN  په/ADP ډول/NN  تر/ADP چاپ/NN  لاندي/ADP  ونيول/VB  سو/VB ./. (() ٢۷ ( په/ADPغورچاڼ/NN  کي/ADP  د/ADP هر/QT  رديف/NN  څو/IA څو/IA  غزلي/NN.PL  راغلي/VB  دي/VB   او/CC د
+متفرقاتو/ برخه/NN  يې/PR  دوه/CD  مناجاته/NN.PL   او/CC يو/CD  نعت/NN.SG  لري/VB  ،/,  د/ADP قلمي/AJ  نسخې/NN  د/ADP پای/ پاڼه/NN.F  هم/CC  ور/PR.3 سره/ADP  يو/CD ځای/NN  سوې ده/VB  ./.  د/ADP بابا/AJ  کلام/NN  يې/PR  په/ADP ډېر/AD  دقت/NN
+    تنقيح/ کړی دئ/VB

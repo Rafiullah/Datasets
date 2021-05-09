@@ -1,0 +1,14 @@
+﻿د/ADP  اميرشيرعلي/NN.SG.M خان/AJ  لومړنی/OD  سلطنت/NN
+د/ADP  افغانستان/NN.SG.M خلک/NN  د/ADP وزيرفتح/NN.SG.M خان/AJ  د/ADP ورونو/NN.PL.OBL  د/ADP تسلط/NN  په/ADP  دوره/NN  کې/ADP   کابو/ نيمه/CD  پيړۍ/NN.F
+ له/ADP  جگړو/NN  او/CC ناخوالو/AJ  سره/ADP  لاس/NN  او/CC گريوان/NN وو/VB
+. ځکه/CC  چې/CC   په/ADP  دې/PR  بې/AD   نظميو/ کې/ADP   د/ADP انگليسانو/NN.PL.OBL  استعماري/AJ  سياست/NN
+دخيل و/VB ./.  د/ADP اميرشيرعلي/NN.SG.M  خان/AJ  له/ADP  سلطنت/NN  څخه/ADP  مخکې/AD   پر/ اميردوست/NN.SG.M  محمد/NN.SG.M  خان/NN.SG.M  باندی/ADP
+يو/CD  شمير/NN
+معاهدې/NN.PL  تحميل شوې/VB ،/,  چې/CC   دغو/PR  معاهدو/NN.PL.OBL  له/ADP  مخې/  ترانزيتي/AJ  او/CC موصلاتی/AJ  لاري/NN.PL  د/ADP افغانستان/NN.SG.M  د/ADP
+خلګو/NN.PL  پر/  مخ/NN  وتړل/VB  شوې/VB  او/CC افغانستان/NN.SG.M  یې/PR  په/ADP  اقتصادی/AJ  او/CC سیاسي/AJ  محاصره/NN  کې/ADP  ښکیل کړ/VB
+امیرشیر/NN.SG.M  علی/NN.SG.M  خان/AJ  د/ADP خپل/PR  پلار/NN  په/ADP  ژوند/NN  کې/ADP  ولیعهد/NN.SG.M  ټاکل/VB  شوی وو/VB .
+چې/CC  د/ADP پلار/NN  له/ADP  مرګه/NN  وروسته/AD یې/PR  په/ADP  یوڅلویښت/CD  کلنۍ/NN  کې/ADP  د/ADP سلطنت/NN.SG.M  اعلان/NN  وکړ/VB  . ورونو/NN.PL.OBL
+یې/PR  ظاهرا/AD  هغه/PR  ته/ADP  بیعت/NN  وکړ/VB ،/, خو/CC  په/ADP  پټه/AJ  یې/PR  د/ADP هغه/PR  په/ADP  وړاندې/AD  مخالفت/NN  وکړ/VB ./.
+ اميرشير/NN.SG.M  علي/NN  خان/NN  د/ADP هرات/NN.SG  ولايت/NN  د/ADP تنظيم/NN  لپاره/ADP  خپل/NN  زوی/NN  شهزاده/NN  محمديعقوب/NN  خان/AJ
+پریښود/VB ،/,  او/CC پخپله/ له/ADP  محمداعظم/NN.SG.M  خان/AJ  سره/ADP  کابل/NN.SG  ته/ADP  روان/NN  شو/VB  ،/,  خو/CC  د/ADP سبزوار/NN  په/ADP  برخه/NN  کې/ADP
+محمداعظم/NN

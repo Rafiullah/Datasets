@@ -1,0 +1,20 @@
+﻿/*
+http://www.pashtovoa.com/a/iphone-7-/3498901.html
+وږی 18, 1395
+*/
+آیفون/NN.SG.M  ۷ له/ADP  ۱۰ نویو/AJ  ځانګړتیاوو/NN.PL.OBL   سره/ADP  معرفي/NN  شو/VB
+د/ADP  آیفون/ NN.SG.M ۷ ځانګړتیاوې/NN.PL.DIR  په/ADP  لاندې/ADP  ډول/NN  دي/VB :/:
+آیفون/NN  ۷ پخوانیو/AJ آیفونونو/NN.PL.OBL  ته/ADP  ډیر/AD  ورته والی لري/VB او/CC د/ADP څلورو/CD مخکنیو/AJ  رنګونو/NN.PL.OBL  ترڅنګ/ په/ADP  تور/NN  رنګ/NN  کې/ADP  هم/AD  خرڅیږي/VB ./.
+سکرین/NN  یا/CC  ښیښه/NN  یې/PR  د/ADP راتینا/NN  اچ ډي/NN  لوړ/AJ  کیفیت/NN  لري/VB  او/CC د/ADP ډیرو/AD رنګونو/NN.PL  د/ADP ښوولو/VB  ظرفیت/NN  لري/VB ./.
+هوم/NN  بټن/NN.SG.M  یا/CC  د/ADP سکرین/NN  تڼۍ/NN.F  یې/PR  د/ADP تنظیمیدلو/ قابلیت/NN  لري/VB ، د/ADP فشار/NN  په/ADP  وړاندې/ADP  حساسه/AJ  او/CC کله/ADP  چې/CC  ټکان/NN  وخوري/VB ،/,  عکس العمل/NN  ښيي/VB ./.
+اوبه/NN  او/CC دوړې/NN  نه په/ADP  کې/ADP  ځي/VB ./.
+د/ADP  جک/AJ  غوږۍ/NN.F  نه لري/VB  او/CC غوږۍ/NN.F  او/CC نور/DT  وسایل/NN.PL  ورسره/ADP  د/ADP جک/NN  چارجر/NN.SG  له/ADP  لارې/NN  وصل/NN  کیږي/VB ./.
+د/ADP  پخوانیو/AJ  آیفونونو/NN.PL.OBL  برخلاف/NN ،/,  دوه/CD  سپیکره/NN.PL  لري/VB  او/CC د/ADP سټریو/NN.SG  د/ADP غږ/NN  د/ADP خپرولو/VB  وړتیا/AJ  لري/VB ./.
+آیفون/N.SG.M  ۷ او/CC آیفون/ NN.SG.M ۷ پلس/NN  د/ADP پخوانیو/AJ  هغو/PR  په/ADP  پرتله/  ښې/AJ  کمرې/NN.PL  لري/VB ./.  د/ADP آیفون/NN.SG.M  ۷ کمره/NN  د/ADP آیفون/NN.SG.M  ۷ شپږ/CD  په/ADP  څیر/NN  ۱۲ میګا/CD.NN  پکسله/NN  ده/  خو/CC  اپرچر/NN  یې/PR  لوی/AJ  شوی/VB  او/CC په/ADP  تته/AJ  رڼا/NN  کې/ADP  ښه/AJ  عکس/NN.SG.M  اخیستل شي/VB . آپټیکل/NN  ستیبلایزر/NN  یا/CC  د/ADP لنز/NN  د/ADP ثابت/NN  ساتلو/VB  ځانګړتیا/NN   لري/VB  او/CC د/ADP عکس/NN  اخیستلو/VB  پرمهال/  که/CC  چیرې/AD  لاس/NN  مو/PR  هم/AD  وښوریږي/VB ، ښه/AJ  عکس/NN  اخیستلی شي/VB ./.  آیفون/ NN.SG.M ۷ پلس/NN  د/ADP۵۶ ملي/NN   متري/NN  تلي/NN  فوټو/NN  یوه/CD  اضافي/AJ  کمره/NN  هم/CC  لري/VB  او/CC کولی/VB  شي/VB  له/ADP  لرې/AJ  واټن/NN  څخه/ADP  ښه/AJ  عکسونه/NN.PL  واخلي/VB ./.
+د/ADP  آیفون/ NN.SG.M ۷ د/ADP بطرۍ/NN.F  ظرفیت/NN  ډیر/AD  شوی/VB  او/CC د/ADP مخکنیو/AJ  هغو/PR  په/ADP  پرتله/  ډیر/AD  وخت/NN  چارج/NN  ساتلی شي/VB ./.  د/ADP اپل/NN.DG  شرکت/NN.DG  وړاندوینه/NN  کوي/VB  چې/CC  د/ADP آیفون ۷/NN.SG.M  د/ADP بطرۍ/NN.F چارج/NN  ۱۲ ساعته/NN.PL  او/CC د/ADP۷ پلس دوه/CD  ساعت/NN  نور/DT  هم/AD  چارج/NN  ساتلی شي/VB ./.
+د/ADP  اي ۱۰ نوی/AJ  چپ/NN  لري/VB  چې/CC  د/ADP تلیفون/NN.SG.M  سرعت/NN  یې/PR  ډیر/AD  کړی/VB ./.
+عامل/NN  سیستم/NN  یې/PR  "/"  آی او اس ۱۰ /NN.SG.M " دی/VB  چې/CC  خپلې/PR  نوې/AJ  ځانګړتیاوې/NN.PL  لري/VB ./.
+آیفون ۷ او/CC ۷ پلس د/ADPحافظې په/ADP  لوړ ظرفیت یعنې ۳۲ جي بي، ۱۲۸ جي بي او/CC ۲۵۶ جي بي بازار ته/ADP  وړاندې کیږي.
+آیفون ۷/NN.SG.M له/ADP  ۳۲ جي بي/NN  حافظې/NN  سره/ADP  د/ADP۶۴۹ امریکايي/AJ  ډالرو/NN.PL  په/ADP  بیې/NN  او/CC ۳۲ جي بي/NN  حافظې لرونکې/AJ  آیفون/ NN.SG.M ۷ پلس به۷۶۹/PT ډالره/NN  بیه/NN  ولري/VB ./.  آیفون/ NN.SG.M ۷ په/ADP  آنلاین/NN  بڼې/NN د/ADP سپټمبر/NN  د/ADP میاشتې/NN  له/ADP  نهم/OF  تاریخ/NN  څخه/ADP  په/ADP  امریکا/NN.SG.M  او/CC یو/DT  شمیر/NN  نورو/DT  هیوادونو/NN.PL.OBL  کې/ADP  خرڅلاو/VB  ته/ADP  وړاندې/ADP   کیږي/VB ./.
+د/ADP  اپل/NN  د/ADP شرکت/NN  د/ADP محصولاتو/NN.PL.OBL  په/ADP  معرفي/NN  کې/ADP ، د/ADP دغه/PR  شرکت/NN  نوی/AJ  ځیرک/AJ  ساعت/NN  هم/CC  وښودل/VB شو/VB ./.
+د/ADP  اپل/NN  شرکت/NN  په/ADP  داسې/DT  حال/NN  کې/ADP  له/ADP  خپل/PR  ډیر/AD  خرڅیدونکي/AJ  محصول/NN  څخه/ADP  پرده/NN  پورته/AD  کوي/VB ،/,  چې/CC  سیال/NN  شرکت/NN  یې/PR  سامسنګ/NN  د/ADP ګلګسي/NN  نوت ۷/NN  د/ADP ټیلیفون/NN.SG  په/ADP  بطرۍ/AJ  کې/ADP  د/ADP رامنځته شوي/VB  مشکل/NN  له/ADP  امله/  له/ADP  سرخوږي/VB  سره/ADP  مخامخ/NN  دی/VB ./.  سامسنګ/NN.SG  د/ADP دغه/PR  تلیفون/NN  خرڅلاو/VB  بندکړی/VB  او/CC له/ADP  خپلو/PR  مشتریانو/NN.PL.OBL یې/ غوښتي/VB  چې/CC  شاوخوا/AD   دونیم/CD  میلیون/CD.NN  خرڅ شوي/VB  تیلیفونونه/NN.PL.DIR  بیرته/ د/ADP دغه/PR  شرکت/NN  نماینده/NN.SG  ګیو/  ته/ADP  ور وړي/VB ./.

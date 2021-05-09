@@ -1,0 +1,20 @@
+﻿د/ADP  جمرود/NN.SG.M  دويم/OD  تړون/NN :/:
+کله/AD چې/CC  انگليسان/NN.PL د/ADP هرات/NN.SG.M  ولايت/NN  له/ADP تجزيې/VB   څخه/ADP تيرشول/VB
+په/ADP دې/PR  لټه/NN.F   کې/ADP  شول/VB  چې/CC   امير/NN دوست
+محمد/NN  خان/AJ  سره/ADP  خبري/NN اترى/NN پيل کړي/VB
+.امير/NN خبري/NN اتري/NN  په/ADP هند/NN کې/ADP  قبول/NN نه کړې/VB
+نو/CC دا/DT خبري/NN اتري/NN
+په/ADP  جمرود/NN کې/ADP   د/ADPامير/NN  دوست محمد/NN  خان/AJ او/CC لارنس /NN تر/ADP مينځ/NN وشوې/VB
+او/CC دغه/PR  تړون/NN  د/ADPمحمد/NN.SG.M اعظم/NN.SG.M
+خان/AJ له/ADP خوا/NN لاسليک/NN  شو/VB . چې/CC   مواد/NN.PL يې/PR په/ADP لاندی/ADP  ډول/NN  دي/VB
+ ايران/NN  د/ADP خپلو/NN ژمنو/NN برعکس/NN هرات/NN.SG اشغال/NN کړ/VB  او/NN  انگليسان/NN.PL به/PT  جگړې/NN ته/ADP
+د/ADP ايرانيانو/NN.PL پر/ خلاف/NN دوام/AJ
+ورکړي/VB تر/ADP څو/IA امير/NN وکولاى/VB شي/VB  د/ADP نورو/DT ولاياتو/NN.PL  څخه/ADP  دفاع/NN  وکړي/VB
+د/ADP جگړ ې/NN تر/ADP  پاى/NN   پوري/ADP، انگلستان/NN
+به/PT هره مياشت/AJ سل/CD زره/CD روپۍ/NN  ((لس/CD زره/NN پونده/NN)) امير/NN.SG ته/PR ورکوي/VB.
+امير دوست محمد/NN خان/AJ به/PT سربيره/ په/ADP اوسني/AD پوځ/NN  يو/CD ديارلس/CD زريز/CD سواره/NN  او/CC اتلس/CD زريز/CD پلي/NN پوځ/NN
+مجهز/AJ کړي/VB
+د/ADP پيسو/NN.PL اخيستنه/VB او/CC ليږ ديدنه/VB په/ADP امير/NN  دوست/NN محمد/NN.SG خان/AJ.NN پورې/ADP اړه/ لري/NN
+د/ADP انگليستان/NN.SG نور/DT استازي/NN به/PT د/ADPافغانستان/NN.SG.M په/ADP دريو/CD ولاياتو/NN.PL (کابل/NN.SG، قندهار/NN.SG او/CC بلخ/NN) کې/ADP
+د/ADP څارني/VB  او/CC
+جگړيزو/AJ  راپورونو/NN.PL  چمتوکولو/VB په/ADP موخه/NN  استوگن/NN  شي/VB.

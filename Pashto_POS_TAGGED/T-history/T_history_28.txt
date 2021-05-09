@@ -1,0 +1,19 @@
+﻿د/ADP  اصولنامې/NN  ترتیب/NN  او/CC تدوين/VB
+کله/AD  چې/CC محمد/NN.SG  نادرشاه/NN.SG  د/ADP هيواد/NN.SG.M واک/NN  يې/PR  په/ADP لاس/NN  کې/ADP واخيست/VB ، نو/CC  هيواد/NN.SG.M بحراني/NN  او/CC داسې/DT   حالت/NN
+درلود/VB  چې/CC  قانون/NN  په/ADP کې/ADP  نافذ/NN  نه و/VB ، هماغه/PR  و/VB ، چې/CC د/ADP هيواد/NN.SG.M د/ADP قانونيت/NN  په/ADP فکر/NN  کې/ADP شو/VB . محمد//NN.SG.M
+نادرشاه/NN.SG.M په/ADP دې/PR پوهيده/VB  چې/CC  تر/ADP  هغه/PR چې/CC  يو/CD  هيواد/NN.SG.M د/ADPقانون
+پر/ بنسټ/NN  ولاړ/VB نه وي/VB ،هغه/PR  دولت/NN.SG.M  نه/CC  یوازې/AD
+دا/DT   چې/CC پايښت/VB  نلري/VB، بلکې/CC   د/ADP هيواد/NN.SG.M شتون/VB  له/ADP  خطر/NN  سره/ADP  مخامخ  کيږي/VB. هغه/PR داPR  درک کړ ې/VB  وه/VB
+،
+چې/CC   د/ADP اماني/AJ  دولت/NN.SG.M له/ADP حساسيت/NN سره/ADP مخامخ/ و/VB  او/CC په/ADP همدې/PR  توگه/NN  منظم/AJ  پلانونه/NN.PL  مطرح/ شوي/VB  وؤ/VB تر/ADP
+ څو/IA  د/ADP محمد نادر/NN.SG.M  خان/AJ دولت//NN.SG.M له/ADP ريښې/NN  څخه/ADP  راوباسي/VB  بهرنيو/NN لاسونو/NN او/CC داخلي/AJ  اجيرانو/NN.PL  کار/NN  کاوه/VB ،
+تر/ADP  څو/IA  چې/CC بحران/NN  رامنځته کړ ي/VB . نادرخان/NN.SG.M په/ADP هوښيارۍ/AJ  سره/ADP  هماغه/PR  قوانين/NN.PL  چې/CC  د/ADP امان الله/NN.SG.M  خان/AJ په/ADP
+دوره/NN  کې/ADP د/ADP نظامنامې/NN   په/ADP نامه/NN  يادېدل/VB ، په/ADP لږ/AD  تفسير/NN  سره/ADP
+د/ADP  اصولنامې/NN  په/ADP نامه/NN  نافذ/NN  کړل/VB  .محمد/NN.SG.M  نادر/NN.SG.M شاه/NN.SG.M
+د/ADP یوه/ با صلاحیته/AJ هئیت/NN په/ADP واسطه/NN  د/ADP اصولنامه/NN یعنی/ اساسي/AJ  قانون/NN  تدوین/VB  کړ/VB .
+
+
+
+
+
+

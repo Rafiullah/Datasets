@@ -1,0 +1,19 @@
+﻿/*
+http://www.pashtovoa.com/a/solar-india/3634011.html
+لیندۍ 23, 1395
+
+*/ 
+د/ADP  لمر/NN.SG.M د/ADP لاری/NN  د/ADP بریښنا/NN.SG.F  تولید/NN   په/ADP ټوله/AD  نړۍ/NN.F  کې/ADP  په/ADP زياتېدو دي/VB
+ په/ADP امریکا/NN.SG.M  کې/ADP او/CC د/ADP نړۍ/NN.F   په/ADP نورو/DT  برخو/NN.PL  کې/ADP د/ADP لمر/NN.SG.M  د/ADP انرژۍ/NN.F  نه د/ADP بریښنا/NN.SG.F  د/ADP تولید/NN  لپاره/ADP  کار/NN  اخیستل کیږي/VB ./.  اوس/NN ،/,   په/ADP هند/NN.SG.M  کې/ADP هم/AD  د/ADP نړۍ/NN.F  د/ADP لمر/NN.SG.M  د/ADP انرژۍ/NN.F  د/ADP تولید/NN  تر/ADP  ټولو/AD  لویه/AJ  فابریکه/NN.SG.M  جوړیږي/VB ./.
+دغه/PR  فابریکه/NN.SG.F  په/ADP یو/CD  کال/NN  کې/ADP جوړه شوه/VB  او/CC ډیره/AD  ځمکه/NN  یې/PR  نیولې ده/VB  چې/CC که/CC  مقایسه/NN  شي/VB  نو/CC  د/ADP تاج محل/NN.SG.M  د/ADP ساحې/NN  ۶۰ برابره ده/VB ./.
+ونیت/NN  چین/NN  چي/CC   عدانۍ/NN   پاور/NN  د/ADP شرکت/NN.SG  سره/ADP  کارکوي/VB  وايي/VB ،،، زموږ/PR  تر/ADP  فابریکې/NN  مخکې/AD ،/,  د/ADP سولر/NN.SG.M  د/ADP انرژۍ/NN.F  د/ADP تولید/NN  تر/ADP  ټولو/AD  لویه/AJ  فابریکه/NN  د/ADP امریکا/NN.SG.M   په/ADP کلفرونیا/NN.SG.M  کې/ADP وه/VB  چې/CC ۵۵۰ میګاواټه/NN.CD  برق/NN.SG.M  تولیدوي/VB  او/CC په/ADP درییو/CD.OBL  کلنو/NN  کې/ADP جوړه شوې/VB  ده/VB ،،.
+دغه/PR  سولر/NN.SG.M  فابریکه/NN.F  ۱۰۰۰ هکتاره/NN.CD  ځمکه/NN  احتوا/NN  کوي/VB ./.  هغه/PR  زیاته/AD وي/VB ،/,
+،،د/ADP  بریښنا/NN.F  د/ADP دغسې/ غټې/AJ  فابریکې/NN  ته/ADP دیر/AD  ځمکه/NN  پکار/  ده/VB  چې/CC لمر/NN.SG.M پکښې/ADP  ډیر/AD  وي/VB  او/CC بندر/NN.SG  ته/ADP نږدې/AD  وي/VB  چې/CC لوژستیکي/AJ  سهولتونه/NN.PL  برابروي/VB ./.  دغه/PR  ټول/NN  شیان/NN.PL  د/ADP ټامیل/NN.SG  نادو/NN.SG  د/ADP کماتي/NN   په/ADP سیمې/NN   کې/ADP شته/VB ،،.
+ په/ADP فابریکې/NN  کې/ADP دوه/CD  نیم/NN.CD  میلیون/NN.CD  د/ADP لمر/NN.SG.M  د/ADP انرژۍ/NN.F  ماډیولونه/NN.PL  کارول/VB  شوي دي/VB  چې/CC قیمت/NN  یې/PR ۶۷۹ میلیون/CD  ډالره/NN.PL  کیږي/VB .
+د/ADP  دغه/PR  غټۍ/AJ  فابریکې/NN  د/ADP پینلونو/NN.PL.OBL  د/ADP پاکولو/VB  لپاره/AD  د/ADP یو/CD  کوچني/AJ  روباټ/NN.SG  نه کار/NN  اخیستل کیږي/VB  چې/CC هغه/PR  هم/AD   په/ADP سولر/NN  انرژۍ/NN.F  چلیږي/VB ./.
+یول/NN  یوسلویچ/NN  چې/CC د/ADP روباټ/NN.SG  د/ADP لاري/NN   د/ADP بریښنا/NN  پینلونو/NN  د/ADP پاکولو/VB  انجینر/NN.SG.M.AJ  دی/VB  وویل/VB ،،، د/ADP  روباټ/NN.SG.M  نه  په/ADP پینلونو/NN  باندې/ADP  د/ADP دوړو/NN.PL  د/ADP پاکولو/VB  لپاره/ADP  استعمالیږي/VB ،،.
+د/ADP  ۲۰۲۲ کال/NN  راهیسې/  د/ADP هند/NN.SG  حکومت/NN.SG   په/ADP پلان/NN  کې/ADP درلود/VB  چې/CC د/ADP لمر/NN.SG  د/ADP انرژۍ/NN.F  نه  په/ADP استفادې/NN  سره/ADP  ۶۰ میلیونه/NN.CD  کورونه/NN.PL ته/ADP بریښنا/NN.F  ورکړي/VB ./.
+گواټام/NN.SG  عدانۍ/NN  چې/CC ددغه/PR  شرکت/NN.SG  ریس/NN.SG  دی/VB  داسي/DT  وویل/VB ،،، موږ/PR   په/ADP پلان/NN  کې/ADP لرو/VB  چې/CC د/ADP لمر/NN.SG  نه به/PT   په/ADP پنځو/CD  راتلونکو/ کلنو/NN  کې/ADP ۱۱ زره/NN.CD  میګاواټه/NN.CD  بریښنا/NN.F  تولید/NN  کړو/VB  چې/CC دغه/PR  به/PT  هند/NN.SG  د/ADP بیا/ تولیدونکو/VB  انرژۍ/NN.F  د/ADP تولید/NN   په/ADP حساب/NN  به/PT  مطرح/NN  هیواد/NN.SG.M  شي/VB ،،.
+د/ADP  عداني/NN  کمپنۍ/NN.F  چې/CC د/ADP لمر/NN.SG  د/ADP انرژۍ/NN.F  دغه/PR  فابریکه/NN.F  یې/PR  جوړه کړې ده/VB   په/ADP استرالیا/NN.SG.M  کې/ADP هم/AD  ورته/ پشنهاد/NN  شوی دی/VB  چې/CC هلته/AD  د/ADP لمر/NN  د/ADP انرژۍ/NN  د/ADP تولید/NN  یوه/CD  فابریکه/NN.F  جوړه کړي/VB
+
+/*

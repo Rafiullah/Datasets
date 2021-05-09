@@ -1,0 +1,19 @@
+﻿شاه شجاع/NN.SG.M   ملي/AJ  پاڅون/NN
+له/ADP  هماغې/PR  ورځې/NN  څخه/ADP  چې/CC  شاه شجاع/NN.SG.M  سلطنت/NN  ته/ADP  ورسيد/VB ،/,  خلک/NN  يې/PR  له/ADP
+ټيت/AJ  فطرت/NN  څخه/ADP  خبرشول/VB ،/,
+د/ADP  هغه/PR  د/ADP انگليسانو/NN.PL.OBL  له/ADP  منځه وړل/VB  يې/PR   له/ADP  خپلو/PR  ديني/AJ  او/CC ملي/AJ  وجايبو/NN.PL  څخه/ADP  وگرځول/VB  او/CC د/ADP خلکو/NN  په/ADP
+منځ/ کې/ADP   د/ADP خپلواکۍ/AJ  ،/,  ننگ/NN  او/CC ناموس/NN  د/ADP ساتنې/VB  احساس/NN  پياوړی شو/VB
+.
+لومړی/OD  يې/PR  له/ADP  خطبې/NN  څخه/ADP  د/ADP شاه
+شجاع/NN.SG.M نوم/NN.SG.M لرې کړ/VB   او/CC له/ADP  انگليسانو/NN.PL  څخه/ADP  يې/PR  خپله/PR  سخته/AJ  کرکه/NN  څرگنده کړه/VB  ./.  د/ADP انگليسانو/NN  هغه/PR
+خزانې/NN.PL
+چې/CC   له/ADP  کندهاره/NN  کابل/NN.SG.M  ته/ADP  انتقاليدې/VB ،/,  غازيانو/NN.PL.OBL  غنيمت/NN.SG.M  ونيولې/VB ./.   د/ADP کابل/NN.SG.M - کندهار/NN.SG.M  لاره/NN  وتړل شوه/VB  او/CC په/ADP
+مشرقي/AJ  کې/ADP   د/ADP سيدجمال الدين افغان/NN.SG.M  د/ADP کورنۍ/NN.F   د/ADP خلکو/NN  له/ADP  خوا/NN  پاڅون/NN.SG.M  پيل شو/VB ./.  دې/PR  حالت/NN  انگليسان/NN
+وارخطاکړل/VB ، په/ADP
+ځانگړې/AD  توگه/NN  کله/AD  چې/CC  روسانو/NN.PL.OBL  اميردوست محمد خان/NN.SG.M له/ADP  ډيرو/AD  وسلو/NN.PL  سره/ADP  کابل/NN.SG.M  ته/ADP
+را/PR.1 ولیږه/VB
+او/CC  د/ADP امير/NN.SG.M  ډير/AD  شمير/NN  پلويان/NN.PL  له/ADP  هغه/PR  سره/ADP  يو/CD  ځای/NN  شول/VB . په/ADP کندهار/NN.SG.M  او/CC جنوبي/AJ  کې/ADP  انگليسي/AJ  ضد/NN
+شورشونه/NN.PL  پيل شول/VB
+په/ADP  ټول/QT   هيواد/NN.SG.M کې/ADP  سرتاسري/   ناخوښي/AJ  پيل شوه/VB  او/CC نوره/ دا/PR  شونې/NN  نه وه/VB
+چې/CC  شاه
+شجاع/NN.SG.M خلق/NN  وغولوي/VB

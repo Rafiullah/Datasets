@@ -1,0 +1,17 @@
+﻿/*http://www.bbc.com/pashto/37882335
+http://www.bbc.com/pashto/37882335
+5 نومبر 2016 
+*/
+له/ADP  ۷۰ کلونو/NN.PL.OBL  وروسته/AD  سپوږمې/NN.F.SG   بیا/AD  ځمکې/NN ته/ADP ډېره/AD  نږدې/AD  کېږي/VB
+
+په/ADP  څو/IA  هېوادونو/NN.PL.OBL  کې/ADP به/PT  د/ADP روانې/ نومبر/NN.SG.M  میاشتې/NN  پر/ADP  ۱۴ په/ADP اسمان/NN.SG.M  کې/ADP سپوږمۍ/NN.SG.F  داسې/DT  ښکاري/VB ،/,  چې/CC له/ADP  دودیز/NN  ډول/NN  به/PT ډېره/AD  لویه/AJ  او/CC زیاته/AD  روښانه/AJ  وي/VB ./.
+د/ADP  سپوږمۍ/NN.SG.F دغه/PR  حالت/NN  ته/ADP د/ADP سوپرمون/NN  یا/CC  ځواکمنه/AJ  سپوږمۍ/NN.SG.F نوم/NN.SG  ورکړل/VB  شوی/VB ، چې/CC ځمکې/NN  ته/ADP خوراAD  ډېره/AD  نږدې/AD  راځي/VB  او/CC شاوخوا/ADP   ۷۰ کاله\NN.PL  وروسته/AD  بیا/AD  د/ADP ځمکې/NN  او/CC سپوږمۍ/NN ترمنځ/ADP  واټن/NN دومره/IA  ډېر/AD  کمېږي/VB ./.
+ناسا/NN.SG  یا/CC  د/ADP تشیال/NN  څېړنو/NN.PL  اداره/NN.SG  وایي/VB ، ځواکمنه/AJ  سپوږمۍ/NN.SG.F به/PT تر/ADP  عادي/AJ  سپوږمۍ/NN.SG.F ۱۴ سلنه/CD  ډېره/AD  لویه/AJ  او/CC۳۰ سلنه/CD  ډېره/AD  روڼه/AJ.NN  یا/CC  ځلانده/AJ  وي/VB ./.
+د/ADP  ناسا/NN.SG  په/ADP خبره/NN.SG ،/,  د/ADP دومره/IA  ډېرې/AD  ښکلې/AJ  او/CC روښانه/AJ  سپوږمۍ/NN.SG.F د/ADP بیا/AD  لیدلو/VB  لپاره/ADP  به/PT خلک/NN  د/ADP ۲۰۳۴ کال/NN  د/ADP نومبر/NN.SG  تر/ADP  ۲۵ پورې/ADP  سترګې/NN.PL  په/ADP اسمان/NN.SG  وي/VB ./.
+د/ADP  بریتانیا/NN  په/ADP وخت/NN  به/PT۴:۴۵ بجو/CD.NN  ځواکمنه/AJ  سپوږمۍ/NN.SG.F ولیدل/VB  شي/VB ./.
+د/ADP  منلي/AJ  نجوم/NN.SG  ټولنې/NN  مرستیال/NN.SG  مشر/NN  رابن/NN.SG.M  سیګل/NN.SG.M  وایي/VB ،/,  "/" ځواکمنه/AJ  سپوږمۍ/NN.SG.F به/PT له/ADP  بامونو/NN.PL.OBL ،/,  ونو/NN.PL.OBL  او/CC لوړو/AJ  ځایونو/NN.PL  د/ADP پاسهAD  ډېره/AD  لویه/AJ  ښکارېږي/VB ./. "
+هغه/PR  زیاتوي/VB  "/" زه/PR  د/ADP هغو/PR.OBL  خلکو/NN.PL  په/ADP لیدلو/VB  ډېر/AD  خوشالېږم/VB  چې/CC دوربین/NN.SG.M  په/ADP لاس/NN  او/CC سپوږمۍ/NN.F  ګوري/VB ./. "/"
+کله/AD  چې/CC سپوږمۍ/NN  ځمکې/NN  ته/ADP خورا/AD  ډېره/AD نږدې/AD  شی/VB ،/,  نو/CC  تر/ADP  دودیزې/AJ  سپوږمۍ/NN.SG.F ۱۴ سلنه/CD  ډېره/AD  لویه/AJ  او/CC۳۰ سلنه/CD  ډېره/AD  روښانه/AJ  او/CC روڼه/AJ  وي/VB ./.
+په/ADP  دې/PR  شېبو/NN.PL  کې/ADP سپوږمۍ/NN  ته/ADP ځواکمنه/AJ  سپوږمۍ/NN.SG.F وايي/VB ،/,  چې/CC له/ADP  ځمکې/NN  ۲۲۶۰۰۰ ( دوه لکه/CD  شپږویشت/CD  زره/CD ) کیلومتره/NN.CD  واټن/NN  لري/VB ./.
+په/ADP  ۲۰۱۶ کال/NN  کې/ADP به/PT  دا/DT  دویمه/OD  ځواکمنه/AJ  سپوږمۍ/NN.SG.F وي/VB ،/,  په/ADP روان/NN  کال/NN  کې/ADP لومړنۍ/AJ  ځواکمنه/AJ سپوږمۍ/NN.SG.F د/ADP اکتوبر/NN.SG  پر/ADP  ۱۶ وه/VB ،/, خو/CC  وروستۍ/AJ  هغه/PR  به/PT د/ADP  ډيسمبر/NN  پر/ADP  ۱۴ وي/VB ./.
+
