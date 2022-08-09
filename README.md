@@ -1,6 +1,6 @@
 # Table of Contents
 * [General Info](#general-info)
-* [How to Cite]
+* How to Cite
 
 
 ## General Info
